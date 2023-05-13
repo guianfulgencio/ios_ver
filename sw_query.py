@@ -54,7 +54,7 @@ def solarwinds_query(server, username, password, region):
     for row in results['results']:
         device_name = "{DisplayName}".format(**row).split('.')[0]
         ip_address = "{IP_address}".format(**row)
-        Site = "{location}".format(**row).split('/')[0]
+        Site = "{location}".format(**row).split('/')[0].strip()
         Manufacturer = "{Vendor}".format(**row)
         Model = "{MachineType}".format(**row)
         ios_version = "{IOSversion}".format(**row).split(',')[0]
