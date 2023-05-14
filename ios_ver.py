@@ -116,7 +116,6 @@ def main():
 
     now = datetime.now()
     report_name = f"report {now.strftime('%d-%b-%Y')}.csv"
-    results_frame = results_frame[results_frame["ios version"] != ""]
     results_frame = results_frame.sort_values(by=["Region", "Device Name"], ascending=(True, True))
     results_frame.to_csv(report_name, index=False)
     rprint(f"✅ {report_name} - Successfully generated!")
