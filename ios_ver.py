@@ -76,7 +76,7 @@ def get_reboot_reason(device_data):
     hostname = device_data["Device Name"]
     ip_address = device_data["IP Address"]
     os_ver = "nxos_ssh" if "Nexus" in device_data["Model"] else "ios"
-    cli_command = ["sh ver | inc IOS XE"]
+    cli_command = ["show ver | inc NX-OS" if os_ver == 'nxos_ssh' else "show ver | inc IOS XE"]
     driver = get_network_driver(os_ver)
     device = driver(
         hostname=ip_address,
@@ -87,7 +87,7 @@ def get_reboot_reason(device_data):
     try:
         device.open()
         cli_output = device.cli(cli_command)
-        ios_version = cli_output[cli_command[0]]
+        ios_version = cli_output[cli_command[0]].replace("Operating System (NX-OS) Software", "")
         ios_version = ios_version.split(',')[0]
         device_data["ios version"] = ios_version.strip()
         device.close()
