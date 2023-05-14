@@ -1,2 +1,1346 @@
-Device Name,IOS Version,IP Address,Manufacturer,Model,Region,Site,ios version,Error
-4500_CORE_VSS,03.06.00.E RELEASE SOFTWARE (fc3),136.171.179.55,Cisco,Cisco Catalyst 4500 L3,US,F06117,Cisco IOS XE Software,
+Device Name,Error,IOS Version,IP Address,Manufacturer,Model,Region,Site,ios version
+AS-SG-SIN-SINQX1-RE30,,17.6.3a,146.46.190.185,Cisco,Cisco,APAC,SINCQX1,Cisco IOS XE Software
+AS-SG-SINQX1-SE01V,,17.6.4,146.46.190.152,Cisco,Catalyst 9500-48Y4C,APAC,,Cisco IOS XE Software
+AU-NSW-F08734-RB1,,17.6.3a,139.65.183.20,Cisco,Cisco,APAC,F08734,Cisco IOS XE Software
+AU-NSW-F08734-RB2,,17.6.3a,139.65.183.21,Cisco,Cisco,APAC,F08734,Cisco IOS XE Software
+AU-QLD-F09027-SL1,,16.12.4,10.192.1.7,Cisco,Cisco C9200L,APAC,F09027,Cisco IOS XE Software
+AU-QLD-F09028-SL1,,16.12.4,10.208.23.5,Cisco,Cisco C9200L,APAC,F09028,Cisco IOS XE Software
+AU-QLD-F09028-SL2,,16.12.4,10.208.23.6,Cisco,Cisco C9200L,APAC,F09028,Cisco IOS XE Software
+BD-13-DSCR-SL09,,17.3.5,146.40.157.129,Cisco,Cisco Catalyst 9300 Series Switch,APAC,F30831,Cisco IOS XE Software
+BD-13-F30831-SL141,,16.12.4,10.45.40.4,Cisco,Cisco Catalyst 9300 Series Switch,APAC,F30831,Cisco IOS XE Software
+CDBCHQRL11,,16.9.4,10.45.63.253,Cisco,Cisco 4431 ISR,APAC,CDBCHQ,Cisco IOS XE Software
+CN-BJ-BEICC-RL01,,17.3.3,146.40.148.1,Cisco,Cisco Catalyst 9300 Series Switch,APAC,BEIC,Cisco IOS XE Software
+CNBJSL01,,16.12.7,146.40.148.26,Cisco,Cisco Catalyst 38xx stack,APAC,CNBJ,Cisco IOS XE Software
+CNGZSL1,,17.3.5,146.40.140.2,Cisco,Cisco Catalyst 9300 Series Switch,APAC,CNGZ,Cisco IOS XE Software
+CNGZSL2,,17.3.5,146.40.140.3,Cisco,Cisco Catalyst 9300 Series Switch,APAC,CNGZ,Cisco IOS XE Software
+F06091BCSL01,,16.9.4,146.40.209.129,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,APAC,F06091,Cisco IOS XE Software
+F07058-D49-HSL25B,,7.3(3)N1(1),134.248.222.18,Cisco,Cisco Nexus 5548,APAC,F07058,Cisco Nexus
+F07058-N25-PL45,,7.3(3)N1(1),134.248.222.105,Cisco,Cisco Nexus 5548,APAC,F07058,Cisco Nexus
+F07058-O51-AR23-PR,,6.2(16),134.248.222.59,Cisco,Cisco Nexus 7000 Series,APAC,F07058,Cisco Nexus
+F07058-S49-EL27A,,7.3(3)N1(1),134.248.222.15,Cisco,Cisco Nexus 5548,APAC,F07058,Cisco Nexus
+F07058-S51-AS23-HS,,6.2(16),134.248.222.51,Cisco,Cisco Nexus 7000 Series,APAC,F07058,Cisco Nexus
+F07058-T35-EL27A,,7.3(3)N1(1),134.248.222.79,Cisco,Cisco Nexus 5548,APAC,F07058,Cisco Nexus
+F07058-T35-HSL25A,,7.3(3)N1(1),134.248.222.81,Cisco,Cisco Nexus 5548,APAC,F07058,Cisco Nexus
+F07058-T43-HSL26A,,7.3(3)N1(1),134.248.222.32,Cisco,Cisco Nexus 5596 UP,APAC,F07058,Cisco Nexus
+F07058-T43-MS38,,16.9.4,134.248.222.27,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,APAC,F07058,Cisco IOS XE Software
+F07058RI01,,7.3(3)N1(1),134.248.222.49,Cisco,Cisco Nexus 5672UP,APAC,F07058,Cisco Nexus
+F07246RA2,,16.12.4,144.5.82.161,Cisco,Cisco 4331 ISR,APAC,F07246,Cisco IOS XE Software
+F07925SL1,,16.12.7,146.40.138.4,Cisco,Cisco Catalyst 38xx stack,APAC,F07925,Cisco IOS XE Software
+F08675GA1,,16.3.5,10.44.7.248,Cisco,Cisco 4431 ISR,APAC,F08675,Cisco IOS XE Software
+F08675RL1,,15.5(3)S6b,10.45.15.252,Cisco,Cisco ASR 1004,APAC,F08675,Cisco IOS XE Software
+F08675RL2,,15.5(3)S6b,10.45.15.253,Cisco,Cisco ASR 1002,APAC,F08675,Cisco IOS XE Software
+F08675SL11N2,,16.9.5,10.45.4.7,Cisco,Cisco Catalyst 9300 Series Switch,APAC,F08675,Cisco IOS XE Software
+F08675SL11S1,,16.9.5,10.45.4.4,Cisco,Cisco Catalyst 9300 Series Switch,APAC,F08675,Cisco IOS XE Software
+F08675SL11S2,,16.9.5,10.45.4.5,Cisco,Cisco Catalyst 9300 Series Switch,APAC,F08675,Cisco IOS XE Software
+F08675SL12S1,,16.9.5,10.45.6.4,Cisco,Cisco Catalyst 9300 Series Switch,APAC,F08675,Cisco IOS XE Software
+F08675SL13N-CIC1,,16.9.4,10.45.8.8,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,APAC,F08675,Cisco IOS XE Software
+F08675SL13N1,,16.9.4,10.45.8.6,Cisco,Cisco Catalyst 9300 Series Switch,APAC,F08675,Cisco IOS XE Software
+F08675SL13N2,,16.9.4,10.45.8.7,Cisco,Cisco Catalyst 9300 Series Switch,APAC,F08675,Cisco IOS XE Software
+F08679BCCE1,,16.6.4,144.5.36.99,Cisco,Cisco 4321 ISR,APAC,F08679,Cisco IOS XE Software
+F08849CE1,,16.12.4,146.40.138.247,Cisco,Cisco 4431 ISR,APAC,F08849,Cisco IOS XE Software
+F08849SL1,,17.3.5,146.40.173.6,Cisco,Cisco Catalyst 9300 Series Switch,APAC,F08849,Cisco IOS XE Software
+F08849SL11,,16.12.8,146.40.173.15,Cisco,Cisco Catalyst 38xx stack,APAC,F08849,Cisco IOS XE Software
+F08849SL2,,17.3.5,146.40.173.7,Cisco,Cisco Catalyst 9300 Series Switch,APAC,F08849,Cisco IOS XE Software
+F08849SL3,,17.3.5,146.40.173.8,Cisco,Cisco Catalyst 9300 Series Switch,APAC,F08849,Cisco IOS XE Software
+F08849SL4,,17.3.5,146.40.173.9,Cisco,Cisco Catalyst 9300 Series Switch,APAC,F08849,Cisco IOS XE Software
+F08849SL5,,17.3.5,146.40.173.10,Cisco,Cisco Catalyst 9300 Series Switch,APAC,F08849,Cisco IOS XE Software
+F09020FR1,,16.9.4,10.45.197.255,Cisco,Cisco 4431 ISR,APAC,F09020,Cisco IOS XE Software
+F09020GA1,,16.6.4,10.45.197.253,Cisco,Cisco 4431 ISR,APAC,F09020,Cisco IOS XE Software
+F09020SL11,,16.9.5,10.45.196.4,Cisco,Cisco Catalyst 9300 Series Switch,APAC,F09020,Cisco IOS XE Software
+F09020SL13,,16.12.4,10.196.11.13,Cisco,Cisco C9200L,APAC,F09020,Cisco IOS XE Software
+F09020SL4,,16.12.4,10.196.11.7,Cisco,Cisco C9200L,APAC,F09020,Cisco IOS XE Software
+F09027SL1,,16.12.4,10.192.1.4,Cisco,Cisco C9200L,APAC,F09027,Cisco IOS XE Software
+F09047CE1,,16.9.4,10.199.240.243,Cisco,Cisco 4431 ISR,APAC,F09047,Cisco IOS XE Software
+F09047GA3,,16.6.4,10.199.240.245,Cisco,Cisco 4431 ISR,APAC,F09047,Cisco IOS XE Software
+F09047SL1,,7.0(3)I7(3),10.199.240.241,Cisco,Nexus 93180YC-EX,APAC,F09047,Cisco Nexus
+F09047SL2,,7.0(3)I7(3),10.199.240.242,Cisco,Nexus 93180YC-EX,APAC,F09047,Cisco Nexus
+HKTYTSL1,,16.12.7,146.40.130.2,Cisco,Cisco Catalyst 38xx stack,APAC,HKTY,Cisco IOS XE Software
+HYDGOPRE1,,15.5(3)S4b,144.5.186.218,Cisco,Cisco 4331 ISR,APAC,HYDGOP,Cisco IOS XE Software
+HYDGOPSL02,,16.12.4,144.5.142.130,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,APAC,HYDGOP,Cisco IOS XE Software
+IDJAKRV1,,17.6.3a,10.44.10.10,Cisco,Cisco 4431 ISR,APAC,IDJAK,Cisco IOS XE Software
+IDJAKSL104-N5548A,,7.0(2)N1(1),146.45.224.8,Cisco,Cisco Nexus 5548,APAC,IDJAK,Cisco Nexus
+IDJAKSL105-N5548B,,7.0(2)N1(1),146.45.224.10,Cisco,Cisco Nexus 5548,APAC,IDJAK,Cisco Nexus
+JP-13-TOK4-SL01,,17.3.4,146.40.63.132,Cisco,Cisco C9200R Fixed Switch Stack,APAC,JPTOK4,Cisco IOS XE Software
+JP-13-TOK4-SL02,,17.3.4,146.40.63.133,Cisco,Cisco C9200R Fixed Switch Stack,APAC,JPTOK4,Cisco IOS XE Software
+JP-13-TOKQX4-RB01,,17.6.3a,139.65.213.214,Cisco,Catalyst 8500L-8S4X,APAC,TOKQX4,Cisco IOS XE Software
+JP-22-OMAJA-RB01,,17.6.3a,139.65.183.67,Cisco,Catalyst 8300-1N1S-6T,APAC,OMAJA,Cisco IOS XE Software
+JP-22-OMAJA-RV01,,17.4.1a,146.40.65.249,Cisco,Catalyst 8300-1N1S-6T,APAC,OMAJA,Cisco IOS XE Software
+KHHQFR3,,16.3.5,146.40.212.4,Cisco,Cisco 4331 ISR,APAC,KHHQ,Cisco IOS XE Software
+KR-00-F08020-RV01,,16.12.4,144.5.25.245,Cisco,Cisco 4431 ISR,APAC,F08019,Cisco IOS XE Software
+KR-11-SEO678-RB01,,17.6.3a,139.65.183.69,Cisco,Cisco,APAC,SEO6,Cisco IOS XE Software
+KR-48-F08020-RB01,,17.6.3a,139.65.183.78,Cisco,Cisco,APAC,WAN-SDWAN : KR-48-F08020,Cisco IOS XE Software
+KR-48-F08020-RB02,,17.6.3a,139.65.183.79,Cisco,Cisco,APAC,WAN-SDWAN : KR-48-F08020,Cisco IOS XE Software
+LK-12-F06091-SL2,,16.9.5,146.40.209.2,Cisco,Cisco Catalyst 38xx stack,APAC,F06091,Cisco IOS XE Software
+LKHQSL1,,16.12.7,146.40.208.2,Cisco,Cisco Catalyst 38xx stack,APAC,LKHQ,Cisco IOS XE Software
+MY-01-MYPG-CE01,,17.6.1a,146.40.101.249,Cisco,Cisco,APAC,MYPG,Cisco IOS XE Software
+MY-07-PR-SL01,,16.12.4,146.40.100.2,Cisco,Cisco Catalyst 9300 Series Switch,APAC,MYPR,Cisco IOS XE Software
+MY-10-HQ-SL1,,17.3.3,146.40.96.2,Cisco,Cisco Catalyst 9407R Switch,APAC,MYHQ,Cisco IOS XE Software
+MYPGSL1,,16.12.7,146.40.101.6,Cisco,Cisco Catalyst 38xx stack,APAC,MYPG,Cisco IOS XE Software
+MYPICE2,,17.6.1a,146.40.103.248,Cisco,Cisco,APAC,MYPI,Cisco IOS XE Software
+MYPISL1,,16.12.4,146.40.103.2,Cisco,Cisco Catalyst 9300 Series Switch,APAC,MYPI,Cisco IOS XE Software
+MYPRCE1,,17.6.1a,146.40.100.249,Cisco,Cisco,APAC,MYPR,Cisco IOS XE Software
+OMAJABRSL10,,16.12.4,146.40.64.16,Cisco,C9300L,APAC,OMAJA,Cisco IOS XE Software
+OMAJABTSL06,,17.6.3,146.40.64.19,Cisco,Cisco Catalyst IE-3200-8P2S Rugged Switch,APAC,OMAJA,Cisco IOS XE Software
+OMAJABUSL07,,17.6.3,146.40.64.21,Cisco,Cisco Catalyst IE-3200-8P2S Rugged Switch,APAC,OMAJA,Cisco IOS XE Software
+OMAJAEVCSL08,,17.3.4,146.40.64.20,Cisco,Cisco Catalyst 9300 Series Switch,APAC,OMAJA,Cisco IOS XE Software
+OMAJAFTSL04,,17.6.3,146.40.64.17,Cisco,Cisco Catalyst IE-3200-8P2S Rugged Switch,APAC,OMAJA,Cisco IOS XE Software
+OMAJAGHSL02,,16.12.4,146.40.64.6,Cisco,C9300L,APAC,OMAJA,Cisco IOS XE Software
+OMAJALABSL07,,16.12.7,146.40.64.12,Cisco,Cisco Catalyst 38xx stack,APAC,OMAJA,Cisco IOS XE Software
+OMAJAOPSSL03,,16.12.7,146.40.64.7,Cisco,Cisco Catalyst 38xx stack,APAC,OMAJA,Cisco IOS XE Software
+OMAJASL04,,16.12.7,146.40.64.8,Cisco,Cisco Catalyst 38xx stack,APAC,OMAJA,Cisco IOS XE Software
+OMAJASL09,,16.12.7,146.40.64.22,Cisco,Cisco Catalyst 38xx stack,APAC,OMAJA,Cisco IOS XE Software
+OMAJAST3SL05,,17.6.3,146.40.64.18,Cisco,Cisco Catalyst IE-3200-8P2S Rugged Switch,APAC,OMAJA,Cisco IOS XE Software
+OSM43SL16,,16.12.7,146.40.79.136,Cisco,Cisco Catalyst 38xx stack,APAC,OSM43,Cisco IOS XE Software
+OSM43SL17,,16.12.4,146.40.78.143,Cisco,Cisco Catalyst 9300 Series Switch,APAC,OSM43,Cisco IOS XE Software
+OSM43SL29,,16.12.7,146.40.78.145,Cisco,Cisco Catalyst 38xx stack,APAC,OSM43,Cisco IOS XE Software
+PH-00-PHMS-SL1,,17.3.4b,146.40.125.226,Cisco,Cisco C9200L,APAC,PHMS,Cisco IOS XE Software
+PH-00-PHRC-SL38F21,,17.6.3,146.40.229.5,Cisco,Cisco Catalyst 9300 Series Switch,APAC,PHRC,Cisco IOS XE Software
+PH-BTG-PHBARP-RB01,,17.6.3a,139.65.183.45,Cisco,Cisco,APAC,PHBARP,Cisco IOS XE Software
+PH-BTG-PHBARP-RB02,,17.6.3a,139.65.183.46,Cisco,Cisco,APAC,PHBARP,Cisco IOS XE Software
+PH-BTG-PHCBT-GA1,,17.6.1a,146.44.106.11,Cisco,Cisco,APAC,PHCBT,Cisco IOS XE Software
+PH-CEB-PHLL-CE01,,17.2.1r,146.40.123.60,Cisco,Cisco 4321 ISR,APAC,PHLL,Cisco IOS XE Software
+PH-CEB-PHLL-RB01,,17.6.3a,139.65.183.53,Cisco,Cisco,APAC,PHLL,Cisco IOS XE Software
+PH-DAS-PHSA-RB01	,,17.6.3a,139.65.183.51,Cisco,Cisco,APAC,PHSA,Cisco IOS XE Software
+PH-LUN-PHSF-RB01,,17.6.3a,146.40.127.2,Cisco,Cisco,APAC,WAN-SDWAN : PH-LUN-PHSF,Cisco IOS XE Software
+PH-LUN-PHSF-SL1,,16.12.4,146.40.127.1,Cisco,C9300L,APAC,PHSF,Cisco IOS XE Software
+PH-MNL-PHRC-RB01,,17.6.3a,139.65.183.18,Cisco,Cisco,APAC,Philippines,Cisco IOS XE Software
+PH-MSC-PHJM-RB02,,17.6.3a,139.65.183.48,Cisco,Cisco,APAC,PHJM,Cisco IOS XE Software
+PH-MSC-PHJM-RL01,,17.5.1,146.40.126.1,Cisco,C9300L,APAC,PHJM,Cisco IOS XE Software
+PH-PSY-PHMS-RB01,,17.6.3a,139.65.183.43,Cisco,Cisco,APAC,PHMS,Cisco IOS XE Software
+PH-PSY-PHMS-RB02,,17.6.3a,139.65.183.44,Cisco,Cisco,APAC,PHMS,Cisco IOS XE Software
+PH-PSY-PHMS-RL01,,17.5.1,146.40.181.129,Cisco,C9300L,APAC,PHMS,Cisco IOS XE Software
+PHBARP - PHCBT Microwave Link,,17.3.4,146.40.112.222,Cisco,Cisco Catalyst 9300 Series Switch,APAC,PHCBT,Cisco IOS XE Software
+PHCBTSL01,,17.3.4,146.40.92.1,Cisco,Cisco Catalyst 9300 Series Switch,APAC,PHCBT,Cisco IOS XE Software
+PHHQ06FSL02,,17.3.4b,146.40.113.7,Cisco,Cisco C9200L,APAC,PHHQ,Cisco IOS XE Software
+PHHQ7FSL01,,17.3.4b,146.40.114.5,Cisco,Cisco C9200L,APAC,PHHQ,Cisco IOS XE Software
+PHHQGA2,,16.12.4,146.44.10.252,Cisco,Cisco 4431 ISR,APAC,PHHQ,Cisco IOS XE Software
+PHHQGA3,,16.12.4,146.44.10.253,Cisco,Cisco 4431 ISR,APAC,PHHQ,Cisco IOS XE Software
+PHRC-SE01V,,16.12.4,139.65.208.119,Cisco,Catalyst 9500-48Y4C,APAC,PHRC,Cisco IOS XE Software
+PHRCGA1,,16.12.4,146.44.9.248,Cisco,Cisco 4431 ISR,APAC,PHRC,Cisco IOS XE Software
+PHRCGA2,,16.12.4,146.44.9.252,Cisco,Cisco 4431 ISR,APAC,PHRC,Cisco IOS XE Software
+PHRCSL32F10-9300,,17.3.4,146.40.231.6,Cisco,Cisco Catalyst 9300 Series Switch,APAC,PHRC,Cisco IOS XE Software
+PHRCSL33F12,,16.12.4,146.40.232.5,Cisco,Cisco Catalyst 9300 Series Switch,APAC,PHRC,Cisco IOS XE Software
+PHRCSL34F13,,16.12.4,146.40.234.4,Cisco,Cisco Catalyst 9300 Series Switch,APAC,PHRC,Cisco IOS XE Software
+PHSASL01,,16.12.4,146.40.123.129,Cisco,Cisco Catalyst 38xx stack,APAC,PHSA,Cisco IOS XE Software
+PKACRA1,,15.5(3)S4b,144.5.32.129,Cisco,Cisco 4321 ISR,APAC,PKAC,Cisco IOS XE Software
+PKWWSL5,,17.6.4,146.40.109.72,Cisco,Cisco C9200L,APAC,PKWW,Cisco IOS XE Software
+PNZSL2SACB18,,17.3.5,146.30.48.185,Cisco,Cisco C9200R Fixed Switch Stack,APAC,Kuwait,Cisco IOS XE Software
+SG-01-SGJR-RB01,,17.6.3a,139.65.183.70,Cisco,Catalyst 8300-1N1S-6T,APAC,SGJR,Cisco IOS XE Software
+SG-01-SINQX1-CUBE02,,17.2.1r,139.65.213.150,Cisco,Cisco 4431 ISR,APAC,SINQX1,Cisco IOS XE Software
+SG-01-SINQX1-RB02,,17.6.3a,139.65.213.154,Cisco,Catalyst 8500L-8S4X,APAC,SINQX1,Cisco IOS XE Software
+SG-05-DC1-SL01,,17.6.4,139.65.139.21,Cisco,Cisco Catalyst 9300 Series Switch,APAC,SGDC1,Cisco IOS XE Software
+SG-05-JRGOFLR1-SL1,,16.12.3a,146.40.22.8,Cisco,Cisco C9200R Fixed Switch Stack,APAC,SGJR,Cisco IOS XE Software
+SG-05-SGJR-GHSL2,,17.3.4b,146.40.23.2,Cisco,Cisco C9200R Fixed Switch Stack,APAC,SGJR,Cisco IOS XE Software
+SG-05-SGJR-GO-FLR1-SL1,,17.3.4,146.40.22.38,Cisco,Cisco Catalyst 9300 Series Switch,APAC,SGJR,Cisco IOS XE Software
+SG-05-SGJR-GO-FLR2-RL1,,17.3.4,146.40.22.35,Cisco,Cisco C9500-40X,APAC,SGJR,Cisco IOS XE Software
+SG-05-SGJR-GO-FLR2-SL1,,17.3.4,146.40.22.37,Cisco,Cisco Catalyst 9300 Series Switch,APAC,SGJR,Cisco IOS XE Software
+SG-05-SGJR-SHSL8,,17.3.4b,146.40.23.131,Cisco,Cisco C9200R Fixed Switch Stack,APAC,SGJR,Cisco IOS XE Software
+SG-05-SINSI2-RG2,,17.5.1,146.40.18.3,Cisco,Cisco Catalyst 9500 series with 48 Ports of 1G/10G/25G + 4 Ports of 40G/100G,APAC,SINSI2,Cisco IOS XE Software
+SG-05-SINSI2-RG3,,17.5.1,146.40.18.5,Cisco,Cisco Catalyst 9500 series with 48 Ports of 1G/10G/25G + 4 Ports of 40G/100G,APAC,SINSI2,Cisco IOS XE Software
+SG-05-SINSI2-SL16,,16.12.4,146.40.60.30,Cisco,Cisco Catalyst 38xx stack,APAC,SINSI2,Cisco IOS XE Software
+SG-05-SINSI2-SL23,,16.12.4,146.40.31.5,Cisco,Cisco Catalyst 9300 Series Switch,APAC,SINSI2,Cisco IOS XE Software
+SG-05-SINSI2-SL25,,17.3.4,146.40.60.25,Cisco,Cisco Catalyst 9300 Series Switch,APAC,SINSI2,Cisco IOS XE Software
+SG-05-SINSI2-SL28,,16.12.7,146.40.60.14,Cisco,Cisco Catalyst 38xx stack,APAC,SINSI2,Cisco IOS XE Software
+SG-05-SINSI2-SL29,,16.12.4,146.40.60.21,Cisco,Cisco Catalyst 9300 Series Switch,APAC,SINSI2,Cisco IOS XE Software
+SG-05-SINSI2-SL5,,17.3.4,146.40.60.12,Cisco,Cisco Catalyst 9300 Series Switch,APAC,SINSI2,Cisco IOS XE Software
+SG-05-SINSI2-SL7,,17.3.4,146.40.60.17,Cisco,Cisco Catalyst 9300 Series Switch,APAC,SINSI2,Cisco IOS XE Software
+SGDC1-MS2,,16.12.4,146.46.188.137,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,APAC,SGDC1,Cisco IOS XE Software
+SGDC1-RI02,,7.3(3)N1(1),146.46.188.147,Cisco,Cisco Nexus 5672UP,APAC,SGDC1,Cisco Nexus
+SGDC1DC1AG1,,6.2(12),139.65.139.80,Cisco,Cisco Nexus 7000 Series,APAC,"SGDC1SS1A1: Facility-Code SGDC1, Keppel Digihub, Singapore",Cisco Nexus
+SGDC1DC1AG1-L3CVX,,6.2(12),139.65.139.82,Cisco,Cisco Nexus 7000 Series,APAC,SGDC1,Cisco Nexus
+SGDC1GS1,,16.9.4,144.5.25.0,Cisco,Cisco ASR1002-X,APAC,SGDC1,Cisco IOS XE Software
+SGDC1GS2,,16.9.4,144.5.25.2,Cisco,Cisco ASR1002-X,APAC,SGDC1,Cisco IOS XE Software
+SGDC1SE1,,7.3(3)N1(1),146.46.188.148,Cisco,Cisco Nexus 5672UP,APAC,SGDC1,Cisco Nexus
+SGDC1SS14G2-DMZ,,6.2(12),139.65.139.91,Cisco,Cisco Nexus 7000 Series,APAC,SGDC1,Cisco Nexus
+SGDC1SS1H1,,7.3(3)N1(1),146.40.10.90,Cisco,Cisco Nexus 5548,APAC,SGDC1,Cisco Nexus
+SGDC1SS2H2,,7.3(3)N1(1),146.40.10.91,Cisco,Cisco Nexus 5548,APAC,SGDC1,Cisco Nexus
+SGDC1SS5G6,,6.2(18),139.65.139.60,Cisco,Cisco Nexus 7000 Series,APAC,SGDC1,Cisco Nexus
+SGDC1SS5G6-CVXCORE,,6.2(18),139.65.139.61,Cisco,Cisco Nexus 7000 Series,APAC,SGDC1,Cisco Nexus
+SGDC1SS5G8,,6.2(18),139.65.139.65,Cisco,Cisco Nexus 7000 Series,APAC,SGDC1,Cisco Nexus
+SGDC1SS5G8-CVXCORE,,6.2(18),139.65.139.66,Cisco,Cisco Nexus 7000 Series,APAC,SGDC1,Cisco Nexus
+SGDC1SS5G8-L3CORE,,6.2(18),139.65.139.68,Cisco,Cisco Nexus 7000 Series,APAC,SGDC1,Cisco Nexus
+SGDC1SS6G6,,7.3(3)N1(1),139.65.139.70,Cisco,Cisco Nexus 5548,APAC,SGDC1,Cisco Nexus
+SGDC1SS6G8,,7.3(3)N1(1),139.65.139.71,Cisco,Cisco Nexus 5548,APAC,SGDC1,Cisco Nexus
+SGDC1SS7G6,,7.3(3)N1(1),139.65.139.72,Cisco,Cisco Nexus 5548,APAC,SGDC1,Cisco Nexus
+SGDC1SS8H2,,7.3(3)N1(1),139.65.139.75,Cisco,Cisco Nexus 5548,APAC,SGDC1,Cisco Nexus
+SGJRDMVSL3,,16.12.7,146.40.23.34,Cisco,Cisco Catalyst 38xx stack,APAC,SGJR,Cisco IOS XE Software
+SGJRGA3,,16.12.4,146.40.23.250,Cisco,Cisco 4431 ISR,APAC,SGJR,Cisco IOS XE Software
+SGJRGA4,,16.12.4,146.40.23.251,Cisco,Cisco 4431 ISR,APAC,SGJR,Cisco IOS XE Software
+SINQX1RD1,,15.4(3)S4,146.46.190.155,Cisco,Cisco ASR 1001-X Router,APAC,SINQX1,Cisco IOS XE Software
+SINQX1RD2,,15.4(3)S4,146.46.190.156,Cisco,Cisco ASR 1001-X Router,APAC,SINQX1,Cisco IOS XE Software
+SINSI2RG11,,9.3(3),146.44.112.1,Cisco,Cisco Nexus 93180YC-FX,APAC,SINSI2,Cisco Nexus
+SINSI2RG11,,9.3(3),146.40.18.6,Cisco,Cisco Nexus 93180YC-FX,APAC,SINSI2,Cisco Nexus
+SINSI2RG12,,9.3(3),146.40.18.7,Cisco,Cisco Nexus 93180YC-FX,APAC,SINSI2,Cisco Nexus
+SINSI2SL11,,16.12.7,146.40.60.23,Cisco,Cisco Catalyst 38xx stack,APAC,SINSI2,Cisco IOS XE Software
+SINSI2SL12-9300,,17.3.5,146.40.60.29,Cisco,Cisco Catalyst 9300 Series Switch,APAC,SINSI2,Cisco IOS XE Software
+SINSI2SL19,,16.12.7,146.40.19.8,Cisco,Cisco Catalyst 38xx stack,APAC,SINSI2,Cisco IOS XE Software
+SINSI2SL21-9300,,17.3.5,146.40.60.8,Cisco,Cisco Catalyst 9300 Series Switch,APAC,SINSI2,Cisco IOS XE Software
+SINSI2SL4-C9300,,17.3.5,146.40.60.11,Cisco,Cisco Catalyst 9300 Series Switch,APAC,SINSI2,Cisco IOS XE Software
+SINSI2SL8,,17.3.5,146.40.18.22,Cisco,Cisco Catalyst 9300 Series Switch,APAC,SINSI2,Cisco IOS XE Software
+SINSI2SL9,,17.3.5,146.40.60.27,Cisco,Cisco Catalyst 9300 Series Switch,APAC,SINSI2,Cisco IOS XE Software
+TH-10-BKKHQ-RB01,,17.6.3a,139.65.183.25,Cisco,Cisco,APAC,WAN SDWAN: BKKHQ,Cisco IOS XE Software
+TH-10-THBT-RB02,,17.6.3a,139.65.183.57,Cisco,Cisco,APAC,THBTHET,Cisco IOS XE Software
+THBTBCSL01,,16.9.2,146.40.211.1,Cisco,Cisco Catalyst 9300 Series Switch,APAC,THBTHET,Cisco IOS XE Software
+THBTCE2,,16.3.5,146.40.203.252,Cisco,Cisco 4431 ISR,APAC,THBTHET,Cisco IOS XE Software
+THBTSL8,,17.6.4,146.40.202.17,Cisco,Cisco Catalyst 9300 Series Switch,APAC,THBTHET,Cisco IOS XE Software
+THLLCE1,,16.3.5,146.40.206.60,Cisco,Cisco 4321 ISR,APAC,THLL,Cisco IOS XE Software
+THOS5SL4,,17.3.5,146.40.221.135,Cisco,Cisco C9200L,APAC,THOS5,Cisco IOS XE Software
+THOS5SL5,,16.12.7,146.40.221.129,Cisco,Cisco Catalyst 38xx stack,APAC,THOS5,Cisco IOS XE Software
+THRNCE1,,16.3.5,146.40.206.62,Cisco,Cisco 4321 ISR,APAC,THRN,Cisco IOS XE Software
+THSBCE1,,16.3.5,146.40.206.61,Cisco,Cisco 4321 ISR,APAC,THSB,Cisco IOS XE Software
+THSOCE1,,16.9.6,146.40.206.126,Cisco,Cisco 4321 ISR,APAC,THSO,Cisco IOS XE Software
+THSUCE1,,16.3.5,146.40.206.189,Cisco,Cisco 4321 ISR,APAC,THSU,Cisco IOS XE Software
+TOKJA2SL01,,16.12.4,146.40.65.1,Cisco,Cisco Catalyst 9300 Series Switch,APAC,TOKJA2,Cisco IOS XE Software
+TOKQX4RD1,,15.4(3)S4,146.46.190.219,Cisco,Cisco ASR 1001-X Router,APAC,TOKQX4,Cisco IOS XE Software
+TOKQX4RD2,,15.4(3)S4,146.46.190.220,Cisco,Cisco ASR 1001-X Router,APAC,TOKQX4,Cisco IOS XE Software
+TOKQX4RD3,,15.4(3)S4,146.46.190.221,Cisco,Cisco ASR 1001-X Router,APAC,TOKQX4,Cisco IOS XE Software
+VNHNBCCE1,,15.5(3)S4b,144.5.36.106,Cisco,Cisco 4431 ISR,APAC,"VNHN 40 Cat Link Street, Hanoi City",Cisco IOS XE Software
+VNHNSL1,,16.9.5,144.5.35.5,Cisco,Cisco Catalyst 38xx stack,APAC,VNHP,Cisco IOS XE Software
+VNHNSL2,,16.9.5,144.5.35.6,Cisco,Cisco Catalyst 38xx stack,APAC,VNHP,Cisco IOS XE Software
+VNHPBCCE1,,16.3.5,144.5.36.100,Cisco,Cisco 4431 ISR,APAC,VNHP: VNHPBCCE1,Cisco IOS XE Software
+VNHPSL2,,16.12.8,144.5.36.3,Cisco,Cisco Catalyst 38xx stack,APAC,VNHP,Cisco IOS XE Software
+f07058-s49-hsl25a,,7.3(3)N1(1),134.248.222.17,Cisco,Cisco Nexus 5548,APAC,F07058,Cisco Nexus
+hydgopre2-lo0,,16.3.5,144.5.186.219,Cisco,Cisco 4331 ISR,APAC,HYDGOP,Cisco IOS XE Software
+in-mh-f08685-ra02,,16.12.4,144.5.25.232,Cisco,Cisco 4431 ISR,APAC,F08685:,Cisco IOS XE Software
+kr-11-krhq-ga1,,17.5.1a,146.40.66.158,Cisco,Cisco,APAC,KRHQ,Cisco IOS XE Software
+kr-11-krhq-rb01,,17.6.3a,139.65.183.55,Cisco,Cisco,APAC,KRHQ,Cisco IOS XE Software
+kr-11-krhq-rl1,,17.3.4,146.40.66.193,Cisco,Cisco C9200R Fixed Switch Stack,APAC,KRHQ,Cisco IOS XE Software
+phhqga2-3945-gi0-0,,16.12.4,146.44.10.70,Cisco,Cisco 4431 ISR,APAC,PHHQ,Cisco IOS XE Software
+phrcsl07f05,,16.12.4,146.40.236.4,Cisco,Cisco Catalyst 9300 Series Switch,APAC,PHRC,Cisco IOS XE Software
+phrcsl07f06,,16.12.4,146.40.236.5,Cisco,Cisco Catalyst 9300 Series Switch,APAC,PHRC,Cisco IOS XE Software
+phrcsl35f15,,16.12.4,146.40.226.4,Cisco,Cisco Catalyst 9300 Series Switch,APAC,PHRC,Cisco IOS XE Software
+phrcsl36f17,,16.12.4,146.40.227.5,Cisco,Cisco Catalyst 9300 Series Switch,APAC,PHRC,Cisco IOS XE Software
+phrcsl42f23,,16.12.4,146.40.237.4,Cisco,Cisco Catalyst 9300 Series Switch,APAC,PHRC,Cisco IOS XE Software
+phrcsl42f24,,16.12.4,146.40.237.5,Cisco,Cisco Catalyst 9300 Series Switch,APAC,PHRC,Cisco IOS XE Software
+sg-05-dc1-mgmt1,,17.6.3,139.65.139.11,Cisco,Cisco Catalyst 9300 Series Switch,APAC,SGDC1,Cisco IOS XE Software
+sg-05-dc1-mgmt2,,17.6.3,139.65.139.12,Cisco,Cisco Catalyst 9300 Series Switch,APAC,SGDC1,Cisco IOS XE Software
+AE-DU-DUB319-RB01,,17.6.3a,139.65.182.35,Cisco,Cisco,EMEA,DUB319,Cisco IOS XE Software
+AE-DU-DUB319-RB02,,17.6.3a,139.65.182.36,Cisco,Cisco,EMEA,DUB319,Cisco IOS XE Software
+AE-DU-DUB319-RV01,,17.4.1a,146.30.73.249,Cisco,Catalyst 8300-1N1S-6T,EMEA,DUB319,Cisco IOS XE Software
+AGBNRRA01,,16.9.4,146.42.149.228,Cisco,Cisco 4331 ISR,EMEA,AGBNR,Cisco IOS XE Software
+ALMRA01,,16.12.4,146.30.199.253,Cisco,Cisco 4331 ISR,EMEA,ALM,Cisco IOS XE Software
+AMSQX3GS1,,15.4(3)S6a,139.65.213.77,Cisco,Cisco ASR 1001 Router,EMEA,AMSQX3,Cisco IOS XE Software
+AMSQX3RD1,,15.4(3)S4,146.46.190.91,Cisco,Cisco ASR 1001-X Router,EMEA,AMSQX3,Cisco IOS XE Software
+AMSQX3RD3,,17.6.5,146.46.190.93,Cisco,Cisco ASR 1001-X Router,EMEA,AMSQX3,Cisco IOS XE Software
+ATYSL03,,16.12.7,146.30.197.196,Cisco,Cisco Catalyst 38xx stack,EMEA,ATY,Cisco IOS XE Software
+ATYSL05,,17.3.5,146.30.197.198,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,ATY,Cisco IOS XE Software
+BANSRRE1,,16.3.5,144.5.242.193,Cisco,Cisco 4331 ISR,EMEA,BANS,Cisco IOS XE Software
+BE-VOV-F30833-RV01,,16.3.5,146.30.158.254,Cisco,Cisco 4351 ISR,EMEA,"Gaston Crommenlaan 6-14, 9050 Ledeberg",Cisco IOS XE Software
+BER140RL01,,17.3.4,146.30.36.125,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,BER140,Cisco IOS XE Software
+BH-00-BHHQ-RB01,,17.6.3a,139.65.182.38,Cisco,Cisco,EMEA,BHHQ,Cisco IOS XE Software
+BH-00-BHHQ-RV01,,17.5.1a,146.30.118.252,Cisco,Cisco,EMEA,BHHQ,Cisco IOS XE Software
+CABA0RA_GS-Banzala,,17.3.5,146.42.89.129,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,CAB27,Cisco IOS XE Software
+DUB319RL01,,16.12.7,146.30.73.250,Cisco,Cisco Catalyst 38xx stack,EMEA,DUB319,Cisco IOS XE Software
+DUB319SL01,,16.12.7,146.30.73.194,Cisco,Cisco Catalyst 38xx stack,EMEA,DUB319,Cisco IOS XE Software
+EG-C-F06279-RL01,,16.12.5b,146.30.71.249,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,F06279,Cisco IOS XE Software
+EGCBSL01,,16.12.4,146.30.89.2,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,EGCB,Cisco IOS XE Software
+EGCBSL02,,16.12.4,146.30.89.4,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,EGCB,Cisco IOS XE Software
+ESCNRRD1-MEREN,,16.12.4,146.42.209.189,Cisco,Cisco 4431 ISR,EMEA,ESCNR,Cisco IOS XE Software
+ESCNRRD2-MEREN,,16.12.4,146.42.209.190,Cisco,Cisco 4431 ISR,EMEA,ESCNR,Cisco IOS XE Software
+ESCNRRD2-OLERO,,16.12.4,146.42.208.129,Cisco,Cisco 4431 ISR,EMEA,"Escravos, Delta, Nigeria",Cisco IOS XE Software
+ESCNRSW-MER-CORE,,17.3.4,146.42.208.74,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,ESCNR,Cisco IOS XE Software
+ESCNRSW-OLE-CORE,,17.3.4,146.42.208.142,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,"Escravos, Delta, Nigeria",Cisco IOS XE Software
+EU-GB-LON-C-LONQX9-RD30,,17.6.1a,139.65.213.30,Cisco,Cisco,EMEA,LONPWG,Cisco IOS XE Software
+EU-LON-LONPWG-SE01V,,17.6.4,146.46.190.57,Cisco,Catalyst 9500-48Y4C,EMEA,LONPWG,Cisco IOS XE Software
+EU-NG-LAGNR-RB01,,17.6.3a,139.65.210.133,Cisco,Cisco,EMEA,LAGNR,Cisco IOS XE Software
+EU-NG-LAGNR-RB02,,17.6.3a,139.65.210.134,Cisco,Cisco,EMEA,LAGNR,Cisco IOS XE Software
+EU-NL-AMSQX3-RB1,,17.6.3a,139.65.182.12,Cisco,Cisco,EMEA,Amsterdam,Cisco IOS XE Software
+EU-NL-AMSQX3-RB2,,17.6.3a,139.65.213.95,Cisco,Cisco,EMEA,Amsterdam,Cisco IOS XE Software
+EU-NL-AMSQX3-SE01V,,17.6.4,146.46.190.105,Cisco,Catalyst 9500-48Y4C,EMEA,AMSQX3,Cisco IOS XE Software
+F08745RL01,,16.12.7,146.30.9.242,Cisco,Cisco Catalyst 38xx stack,EMEA,F08745,Cisco IOS XE Software
+F08879RL01,,16.12.7,146.30.4.126,Cisco,Cisco Catalyst 38xx stack,EMEA,F08879,Cisco IOS XE Software
+F08982RA01 (Aberdeen),,16.9.2,146.30.9.239,Cisco,Cisco ASR1002-X,EMEA,F08982,Cisco IOS XE Software
+FAR140RA01,,15.4(3)S4,146.38.9.252,Cisco,Cisco ASR1002-X,EMEA,FAR140,Cisco IOS XE Software
+FR-IDF-RUEIL1-SS01,,16.12.4,146.30.143.196,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,RUEIL1,Cisco IOS XE Software
+FR-NOR-GONFR-SL010,,17.3.5,146.30.218.87,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+FR-NOR-GONFR-SL015,,16.12.4,146.30.218.75,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+FR-NOR-GONFR-SL015B,,17.3.5,146.30.218.82,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+FR-NOR-GONFR-SL016,,17.3.5,146.30.218.44,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+FR-NOR-GONFR-SL024,,17.3.5,146.30.218.72,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+FR-NOR-GONFR-SL033,,17.3.5,146.30.218.78,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+FR-NOR-GONFR-SL034,,17.3.5,146.30.218.73,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+FR-NOR-GONFR-SL037,,17.3.5,146.30.218.77,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+FR-NOR-GONFR-SL04,,16.12.4,146.30.218.13,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+FR-NOR-GONFR-SL05,,17.3.5,146.30.218.38,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+FR-NOR-GONFR-SL08,,17.3.5,146.30.218.45,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+FR-NOR-GONFR-SL2,,16.12.4,146.30.218.36,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+GB-SCB-F06296-RL01,,17.3.5,146.30.166.251,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,F06296,Cisco IOS XE Software
+GNTRA01,,16.12.4,146.30.188.126,Cisco,Cisco 4331 ISR,EMEA,GNT,Cisco IOS XE Software
+GNTRL01,,16.12.7,146.30.188.254,Cisco,Cisco Catalyst 38xx stack,EMEA,GNT,Cisco IOS XE Software
+GNTSL06,,16.12.7,146.30.188.144,Cisco,Cisco Catalyst 38xx stack,EMEA,GNT,Cisco IOS XE Software
+GNTSL07,,16.9.5,146.30.188.149,Cisco,Cisco Catalyst 38xx stack,EMEA,GNT,Cisco IOS XE Software
+GONFRSL011,,17.3.5,146.30.218.88,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+GONFRSL017,,17.3.5,146.30.218.70,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+GONFRSL018,,16.12.7,146.30.218.69,Cisco,Cisco Catalyst 38xx stack,EMEA,GONFR,Cisco IOS XE Software
+GONFRSL021,,17.3.5,146.30.218.40,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+GONFRSL025,,16.12.7,146.30.218.76,Cisco,Cisco Catalyst 38xx stack,EMEA,GONFR,Cisco IOS XE Software
+GONFRSL028,,17.3.5,146.30.218.83,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+GONFRSL028C,,16.12.7,146.30.218.89,Cisco,Cisco Catalyst 38xx stack,EMEA,GONFR,Cisco IOS XE Software
+GONFRSL03,,16.12.3a,146.30.218.11,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+GONFRSL031,,17.3.5,146.30.218.90,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+GONFRSL032,,17.3.5,146.30.218.71,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+GONFRSL038,,17.3.5,146.30.218.80,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+GONFRSL039,,16.12.4,146.30.218.79,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+GONFRSL06B,,17.3.5,146.30.218.14,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+GONFRSL07,,17.3.5,146.30.218.86,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+GONFRSN1A,,7.0(3)I7(4),146.30.218.111,Cisco,Nexus 9372TX,EMEA,GONFR,Cisco Nexus
+GONFRSN1B,,7.0(3)I7(4),146.30.218.101,Cisco,Nexus 9372TX,EMEA,GONFR,Cisco Nexus
+GONFRSS1V,,16.12.4,146.30.218.98,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+IQ-AR-ERV423-RB01,,17.6.3a,139.65.182.39,Cisco,Cisco,EMEA,WAN SDWAN : ERV423,Cisco IOS XE Software
+JOPN5K02,,5.2(1)N1(2),146.30.76.4,Cisco,Cisco Nexus 5000 Series,EMEA,snmplocation,Cisco Nexus
+JOPSL16GS1,,16.9.4,146.30.76.48,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL17EMT1,,16.9.4,146.30.76.86,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL18TC1,,17.3.4,146.30.76.34,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL18TCDS1,,17.3.4,146.30.76.33,Cisco,Cisco C9500-40X,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL1ADM1,,16.9.4,146.30.76.5,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL1ADM4,,17.3.4,146.30.76.10,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL1ADMDS1,,17.3.4,146.30.76.8,Cisco,Cisco C9500-40X,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL1ADMDS2,,17.3.4,146.30.76.102,Cisco,Cisco C9500-40X,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL21SAC1,,16.9.4,146.30.76.53,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL23HVT1,,16.9.4,146.30.76.115,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL24PGPDS1,,17.3.4,146.30.76.76,Cisco,Cisco C9500-40X,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL26POD1,,17.3.4,146.30.76.72,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL28PMS1,,16.12.02,146.30.76.19,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL29WHA1,,17.3.4,146.30.76.15,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL29WHADS1,,17.3.4,146.30.76.14,Cisco,Cisco C9500-40X,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL2EPDMANNEX,,16.12.02,146.30.76.29,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL2FDD1,,17.3.4,146.30.76.30,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL30WH401,,16.12.02,146.30.76.17,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL30WH402,,16.12.02,146.30.76.18,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL32WMS1,,17.3.4,146.30.76.22,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL34SCDA1,,12.2(50)SE1,146.30.76.24,Cisco,Catalyst 37xx Stack,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL35MGCADM1,,17.3.4,146.30.76.67,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL3LSPE1,,16.9.4,146.30.76.111,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL41PMP1,,17.3.4,146.30.76.63,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL44FS1,,17.3.4,146.30.76.64,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL44MGCFS1,,17.3.4,146.30.76.85,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL46FAB2,,17.3.4,146.30.76.75,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL4MPD1,,16.12.02,146.30.76.37,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL4MPD3,,16.12.02,146.30.76.39,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL53POD17,,16.9.4,146.30.76.94,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL55PODOP,,16.9.4,146.30.76.103,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL5TRN1,,16.9.4,146.30.76.40,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSL8SRP1,,16.9.4,146.30.76.43,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLACTUNT,,17.3.4,146.30.76.84,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLDGWHA1,,16.9.4,146.30.76.21,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLEMTAC,,16.9.4,146.30.76.97,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLEMTINST,,16.9.4,146.30.76.95,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLEPDM1,,16.9.4,146.30.76.31,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLINDSECGATE,,17.3.4,146.30.76.20,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLLAB1,,16.9.4,146.30.76.73,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLLSPADS,,16.12.02,146.30.76.44,Cisco,Cisco C9500-40X,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLLSPM1,,16.12.02,146.30.76.47,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLMGCPCR1,,17.3.4,146.30.76.68,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLMGCPCR2,,16.9.4,146.30.76.69,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLOTC2,,12.2(50)SE1,146.30.76.52,Cisco,Catalyst 37xx Stack,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLPGP1,,17.3.4,146.30.76.78,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLPGP2,,17.3.4,146.30.76.79,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLPGP4,,16.9.4,146.30.76.81,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLPNZ1,,16.12.02,146.30.61.233,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLPWGA1,,16.9.4,146.30.76.89,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLSACCLINIC,,17.3.4,146.30.76.23,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,JOP:Wafra,Cisco IOS XE Software
+JOPSLSUGDS1,,17.3.4,146.30.76.57,Cisco,Cisco C9500-40X,EMEA,JOP:Wafra,Cisco IOS XE Software
+KZ-ATY-F06655-SA01,,17.3.5,146.31.12.8,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,"TCOV, A15",Cisco IOS XE Software
+KZ-ATY-F09001-SS01,,9.3(8),146.31.63.240,Cisco,Cisco Nexus 9K C9364C,EMEA,,Cisco Nexus
+LAGNRRD1-PABX,,16.3.5,146.42.151.244,Cisco,Cisco ASR1002-X,EMEA,LAGNR,Cisco IOS XE Software
+LAGNRRD2-COMMS,,16.3.5,146.42.151.245,Cisco,Cisco ASR1002-X,EMEA,LAGNR,Cisco IOS XE Software
+LKSW-CALEAP,,16.12.7,146.42.150.79,Cisco,Cisco Catalyst 38xx stack,EMEA,LAGNR,Cisco IOS XE Software
+LKSW2C-ICC,,16.12.7,146.42.150.48,Cisco,Cisco Catalyst 38xx stack,EMEA,LAGNR,Cisco IOS XE Software
+LKSWCL,,16.12.7,146.42.150.54,Cisco,Cisco Catalyst 38xx stack,EMEA,LAGNR,Cisco IOS XE Software
+LKSWCOMMS,,16.12.7,146.42.150.76,Cisco,Cisco Catalyst 38xx stack,EMEA,LAGNR,Cisco IOS XE Software
+LKSWF2W,,16.9.5,146.42.150.41,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,LAGNR,Cisco IOS XE Software
+LKSWHRCPK,,16.12.7,146.42.150.56,Cisco,Cisco Catalyst 38xx stack,EMEA,LAGNR,Cisco IOS XE Software
+LKSWMGT-GHSE,,16.12.7,146.42.150.64,Cisco,Cisco Catalyst 38xx stack,EMEA,LAGNR,Cisco IOS XE Software
+LKSWREC-CTR,,16.12.7,146.42.150.65,Cisco,Cisco Catalyst 38xx stack,EMEA,LAGNR,Cisco IOS XE Software
+LKSWSEC,,16.12.7,146.42.150.66,Cisco,Cisco Catalyst 38xx stack,EMEA,LAGNR,Cisco IOS XE Software
+LKSWWH4-MWHse,,16.12.7,146.42.150.68,Cisco,Cisco Catalyst 38xx stack,EMEA,LAGNR,Cisco IOS XE Software
+LONPWGGS3,,16.9.4,144.5.23.51,Cisco,Cisco ASR1002-X,EMEA,LONPWG,Cisco IOS XE Software
+LONPWGRG10,,15.5(3)S3,139.65.152.236,Cisco,Cisco ASR 1006,EMEA,LONPWG,Cisco IOS XE Software
+LONPWGRI12,,7.3(3)N1(1),146.46.188.82,Cisco,Cisco Nexus 5672UP,EMEA,LONPWG,Cisco Nexus
+LONPWGRI13,,7.3(3)N1(1),146.46.188.83,Cisco,Cisco Nexus 5672UP,EMEA,LONPWG,Cisco Nexus
+LONPWGRV1,,16.9.4,146.34.143.253,Cisco,Cisco 4431 ISR,EMEA,LONPWG,Cisco IOS XE Software
+LONPWGSE12,,7.3(3)N1(1),146.46.188.84,Cisco,Cisco Nexus 5672UP,EMEA,LONPWG,Cisco Nexus
+LONPWGSN-E10A,,7.3(3)N1(1),146.38.93.17,Cisco,Cisco Nexus 5672UP,EMEA,LONPWG,Cisco Nexus
+LONPWGSN-E15B,,7.3(3)N1(1),146.38.60.211,Cisco,Cisco Nexus 5672UP,EMEA,LONPWG,Cisco Nexus
+LONPWGSN3A-N7K-CORP,,6.2(16),146.38.95.236,Cisco,Cisco Nexus 7000 Series,EMEA,LONPWG,Cisco Nexus
+LONPWGSN3B-N7K-EX,,6.2(16),146.38.60.191,Cisco,Cisco Nexus 7000 Series,EMEA,LONPWG,Cisco Nexus
+LONPWGSN4A,,7.3(3)N1(1),146.38.93.68,Cisco,Cisco Nexus 5596 UP,EMEA,LONPWG,Cisco Nexus
+LONPWGSN5B,,7.3(3)N1(1),146.38.93.71,Cisco,Cisco Nexus 5596 UP,EMEA,LONPWG,Cisco Nexus
+LONPWGSN6A,,7.3(3)N1(1),146.38.93.72,Cisco,Cisco Nexus 5596 UP,EMEA,LONPWG,Cisco Nexus
+LONPWGSN6B,,7.3(3)N1(1),146.38.93.73,Cisco,Cisco Nexus 5596 UP,EMEA,LONPWG,Cisco Nexus
+LONPWGSS-D09,,16.12.4,146.38.93.12,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,EMEA,LONPWG,Cisco IOS XE Software
+LONPWGSS-D14,,16.12.4,146.38.93.19,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,EMEA,LONPWG,Cisco IOS XE Software
+LONPWGSS-D15,,16.12.4,146.38.93.20,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,EMEA,LONPWG,Cisco IOS XE Software
+LONPWGSS-E09,,16.12.4,146.38.93.23,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,EMEA,LONPWG,Cisco IOS XE Software
+LONPWGSS-E12,,16.12.4,146.38.93.25,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,EMEA,LONPWG,Cisco IOS XE Software
+LONPWGSS-E13,,16.12.4,146.38.93.26,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,EMEA,LONPWG,Cisco IOS XE Software
+LONQX9RD1,,16.9.4,146.46.190.27,Cisco,Cisco ASR 1001-X Router,EMEA,LONPWG,Cisco IOS XE Software
+LUAA13RM-LOBITO01,,15.5(3)S4b,146.42.5.190,Cisco,Cisco 4331 ISR,EMEA,LUAA13,Cisco IOS XE Software
+MOSRL01,,17.3.5,146.30.193.250,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,MOS,Cisco IOS XE Software
+NL-ZH-ROTNL-SL03,,16.12.5b,146.30.96.5,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,ROTNL,Cisco IOS XE Software
+NL-ZH-ROTNL-SL07,,16.12.5b,146.30.96.9,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,ROTNL,Cisco IOS XE Software
+PNC01RD,,16.3.5,146.30.40.248,Cisco,Cisco 4351 ISR,EMEA,PNC0,Cisco IOS XE Software
+PNC01SL03-SRV2,,16.12.7,146.30.40.10,Cisco,Cisco Catalyst 38xx stack,EMEA,PNC01,Cisco IOS XE Software
+PNZDCNXS01-S01A,,9.2(3),146.30.48.68,Cisco,Cisco Nexus 93180YC-FX,EMEA,PNZ,Cisco Nexus
+PNZDCNXS02-S01B,,9.2(3),146.30.48.69,Cisco,Cisco Nexus 93180YC-FX,EMEA,PNZ,Cisco Nexus
+PNZDCNXS03-S02A,,9.2(3),146.30.48.70,Cisco,Cisco Nexus 93180YC-FX,EMEA,PNZ,Cisco Nexus
+PNZDCNXS04-S02B,,9.2(3),146.30.48.71,Cisco,Cisco Nexus 93180YC-FX,EMEA,PNZ,Cisco Nexus
+PNZDCNXS05-S03A,,9.2(3),146.30.48.72,Cisco,Cisco Nexus 93180YC-FX,EMEA,PNZ,Cisco Nexus
+PNZDCNXS06-S03B,,9.2(3),146.30.48.73,Cisco,Cisco Nexus 93180YC-FX,EMEA,PNZ,Cisco Nexus
+PNZDCNXS07-S10A,,9.2(3),146.30.48.74,Cisco,Cisco Nexus 93180YC-FX,EMEA,PNZ,Cisco Nexus
+PNZDCNXS08-S10B,,9.2(3),146.30.48.75,Cisco,Cisco Nexus 93180YC-FX,EMEA,PNZ,Cisco Nexus
+PNZDCRM01,,16.12.1,146.30.48.1,Cisco,Cisco Catalyst 9606R Switch,EMEA,PNZ,Cisco IOS XE Software
+PNZDCRM02,,16.12.1,146.30.48.2,Cisco,Cisco Catalyst 9606R Switch,EMEA,PNZ,Cisco IOS XE Software
+PNZRA01,,16.12.8,146.30.23.253,Cisco,Cisco 4431 ISR,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2JOPB04,,17.3.5,146.30.32.24,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2JOPB06,,17.3.5,146.30.32.12,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2JOPB07,,17.3.5,146.30.32.5,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2JOPB09F1A,,17.3.5,146.30.32.17,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2JOPB09F1B,,17.3.5,146.30.32.18,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2JOPB09GFA,,17.3.5,146.30.48.180,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2JOPB09GFB,,17.3.5,146.30.48.181,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2JOPB09GFC,,17.3.5,146.30.48.182,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2JOPB10A,,17.3.5,146.30.48.172,Cisco,Cisco C9500-40X,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2JOPB10B,,17.3.5,146.30.48.173,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2JOPB11,,17.3.5,146.30.32.15,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2JOPB13A,,17.3.5,146.30.32.21,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2JOPB14,,17.3.5,146.30.32.23,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,Kuwait,Cisco IOS XE Software
+PNZSL2JOPB15,,17.3.5,146.30.32.11,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2SACB04A,,17.3.5,146.30.48.159,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2SACB04C,,17.3.5,146.30.48.142,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2SACB07A,,16.9.4,146.30.48.144,Cisco,Cisco C9500-40X,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2SACB11A,,17.3.5,146.30.48.134,Cisco,Cisco C9500-40X,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2SACB11B,,17.3.5,146.30.48.135,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2SACB14,,17.3.5,146.30.48.154,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2SACB16,,17.3.5,146.30.48.163,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2SACB17,,17.3.5,146.30.48.137,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,PNZ,Cisco IOS XE Software
+PNZSL2SACB18,,17.3.5,146.30.48.185,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,Kuwait,Cisco IOS XE Software
+PNZSL3DIST01,,16.9.4,146.30.48.53,Cisco,Cisco Catalyst 9500 series with 48 Ports of 1G/10G/25G + 4 Ports of 40G/100G,EMEA,PNZ,Cisco IOS XE Software
+PNZSL3DIST02,,16.9.4,146.30.48.54,Cisco,Cisco Catalyst 9500 series with 48 Ports of 1G/10G/25G + 4 Ports of 40G/100G,EMEA,PNZ,Cisco IOS XE Software
+ROTNLRA01,,16.12.4,146.30.97.250,Cisco,Cisco 4351 ISR,EMEA,ROTNL,Cisco IOS XE Software
+ROTNLRA02,,16.3.7,146.30.97.252,Cisco,Cisco 4351 ISR,EMEA,ROTNL,Cisco IOS XE Software
+ROTNLRL01,,17.3.5,146.30.97.251,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,ROTNL,Cisco IOS XE Software
+ROTNLSL02,,16.12.5b,146.30.96.4,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,ROTNL,Cisco IOS XE Software
+ROTNLSL04,,16.12.5b,146.30.96.6,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,ROTNL,Cisco IOS XE Software
+ROTNLSL06,,16.12.5b,146.30.96.8,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,ROTNL,Cisco IOS XE Software
+RU-MO-MOS612-SL01,,16.6.4,146.30.193.195,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,MOS,Cisco IOS XE Software
+RUEIL1RA01,,16.12.4,146.30.143.233,Cisco,Cisco 4351 ISR,EMEA,RUEIL1,Cisco IOS XE Software
+RUEIL1RA02,,16.12.4,146.30.143.234,Cisco,Cisco 4351 ISR,EMEA,RUEIL1,Cisco IOS XE Software
+SAC242SL1,,17.3.5,146.26.6.249,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,SAC242,Cisco IOS XE Software
+WFCRA01,,16.3.5,146.38.95.225,Cisco,Cisco ASR1002-X,EMEA,WFC,Cisco IOS XE Software
+WFCRA02,,16.3.5,146.38.95.226,Cisco,Cisco ASR1002-X,EMEA,WFC,Cisco IOS XE Software
+WFCRV3-IPT,,16.12.4,146.34.128.253,Cisco,Cisco 4431 ISR,EMEA,WFC,Cisco IOS XE Software
+WFCRV4-IPT,,16.12.4,146.34.128.254,Cisco,Cisco 4431 ISR,EMEA,WFC,Cisco IOS XE Software
+WFCSL4E1,,17.3.5,146.38.92.143,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,WFC,Cisco IOS XE Software
+WFCSL4W1,,17.3.5,146.38.92.148,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,WFC,Cisco IOS XE Software
+WFCSL5E1,,17.3.5,146.38.92.151,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,WFC,Cisco IOS XE Software
+WFCSL5W1,,17.3.5,146.38.92.157,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,WFC,Cisco IOS XE Software
+WFCSL6E1,,17.3.4,146.38.92.145,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,WFC,Cisco IOS XE Software
+WFCSL6W1,,17.3.4,146.38.92.146,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,WFC,Cisco IOS XE Software
+WFCSS4,,16.12.7,146.38.92.173,Cisco,Cisco Catalyst 38xx stack,EMEA,WFC,Cisco IOS XE Software
+egcbrl01,,16.12.4,146.30.89.249,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,EGCB,Cisco IOS XE Software
+fr-nor-gonfr-sl06,,16.12.4,146.30.218.15,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,GONFR,Cisco IOS XE Software
+hydgopre1,,15.5(3)S4b,144.5.186.218,Cisco,Cisco 4331 ISR,EMEA,HYDGOP,Cisco IOS XE Software
+hydgopre2-lo0,,16.3.5,144.5.186.219,Cisco,Cisco 4331 ISR,EMEA,HYDGOP,Cisco IOS XE Software
+hydgopsl2,,16.12.4,144.5.142.130,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,EMEA,HYDGOP,Cisco IOS XE Software
+luaa13slgndfl3-stk,,17.3.5,146.42.32.17,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,LUAA13,Cisco IOS XE Software
+pnzsl2jopb01,,17.3.5,146.30.32.10,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,PNZ,Cisco IOS XE Software
+pnzsl2jopb02,,17.3.5,146.30.32.9,Cisco,Cisco C9200R Fixed Switch Stack,EMEA,PNZ,Cisco IOS XE Software
+pnzsl2jopb05,,17.3.5,146.30.32.8,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,PNZ,Cisco IOS XE Software
+pnzsl2sacb04b,,17.3.5,146.30.48.141,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,PNZ,Cisco IOS XE Software
+pnzsl2sacb07b,,17.3.5,146.30.48.145,Cisco,Cisco Catalyst 9300 Series Switch,EMEA,PNZ,Cisco IOS XE Software
+ACARA1,,16.9.4,146.39.67.249,Cisco,Cisco 4331 ISR,US,ACA,Cisco IOS XE Software
+ACASL2,,17.3.5,146.39.67.5,Cisco,Cisco Catalyst 9300 Series Switch,US,ACA,Cisco IOS XE Software
+AESRA1,,15.4(3)S4,146.39.67.250,Cisco,Cisco 4331 ISR,US,AES,Cisco IOS XE Software
+AESSL1,,16.12.7,146.39.67.129,Cisco,Cisco Catalyst 38xx stack,US,AES,Cisco IOS XE Software
+AESSL2,,16.12.7,146.39.67.131,Cisco,Cisco Catalyst 38xx stack,US,AES,Cisco IOS XE Software
+AMSQX3GS1,,15.4(3)S6a,139.65.213.77,Cisco,Cisco ASR 1001 Router,US,AMSQX3,Cisco IOS XE Software
+AMSQX3RD10,,16.12.5,139.65.213.79,Cisco,Cisco ASR 1001-X Router,US,AMSQX3,Cisco IOS XE Software
+AMST-3850-CORE,,16.12.8,10.46.4.1,Cisco,Cisco Catalyst 38xx stack,US,Amsterdam,Cisco IOS XE Software
+AO-LUA-LUAA29-RB01,,17.6.3a,139.65.210.150,Cisco,Cisco,US,LUAA29,Cisco IOS XE Software
+AO-LUA-LUAA29-RB02,,17.6.3a,139.65.210.151,Cisco,Cisco,US,LUAA29,Cisco IOS XE Software
+AO-LUA-LUAA29-SE01V,,16.12.4,139.65.210.121,Cisco,Catalyst 9500-48Y4C,US,LUAA29,Cisco IOS XE Software
+AR-Q-ELTAR-RL01,,16.9.2,146.39.29.252,Cisco,Cisco Catalyst 9300 Series Switch,US,ELTAR,Cisco IOS XE Software
+ARCSL1,,17.3.5,146.25.84.189,Cisco,Cisco Catalyst 9300 Series Switch,US,ARC,Cisco IOS XE Software
+AS-JP-TOK-TOKQX4-RE30,,17.6.1a,146.46.190.245,Cisco,Cisco,US,TOKQX4,Cisco IOS XE Software
+AS-JP-TOKQX4-SE01V,,17.6.4,146.46.190.203,Cisco,Catalyst 9500-48Y4C,US,TOKQX4,Cisco IOS XE Software
+AS-SG-SIN-SINQX1-RE30,,17.6.3a,146.46.190.185,Cisco,Cisco,US,SINCQX1,Cisco IOS XE Software
+AS-SG-SINQX1-SE01V,,17.6.4,146.46.190.152,Cisco,Catalyst 9500-48Y4C,US,,Cisco IOS XE Software
+ASAswppal-C9200,,16.12.3a,146.39.38.130,Cisco,Cisco C9200L,US,ASAI airport,Cisco IOS XE Software
+AU-WA-F07058-RB01,,17.6.3a,139.65.221.13,Cisco,Catalyst 8500L-8S4X,US,F07058,Cisco IOS XE Software
+AU-WA-F07058-RB02,,17.6.3a,139.65.221.14,Cisco,Catalyst 8500L-8S4X,US,F07058,Cisco IOS XE Software
+BARIJRSL10-3850,,16.12.7,146.39.110.11,Cisco,Cisco Catalyst 38xx stack,US,BARIJR,Cisco IOS XE Software
+BARIJRSL11-3850,,16.12.7,146.39.110.12,Cisco,Cisco Catalyst 38xx stack,US,BARIJR,Cisco IOS XE Software
+BARIJRSL8-3850,,16.12.7,146.39.110.8,Cisco,Cisco Catalyst 38xx stack,US,BARIJR,Cisco IOS XE Software
+BCHRA1-Datacenter-280,,16.9.6,146.25.75.248,Cisco,Cisco ASR 1001-X Router,US,BCH,Cisco IOS XE Software
+BCHSL1-Admin-154,,17.3.5,146.25.75.140,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL10-GATE-C,,17.3.5,146.25.75.149,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL11-GATE2,,17.3.5,146.25.75.150,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL12-Gate-3,,17.3.5,146.25.75.151,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL13-Lab-1st-FL,,17.3.5,146.25.75.152,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL14-Lab-3rd-FL,,17.3.5,146.25.75.153,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL15-First_Aid,,17.3.5,146.25.75.154,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL16-Store-Room,,17.3.5,146.25.75.155,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL17-Zachry-Lunch-Room,,17.3.5,146.25.75.156,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL18-OPLC,,17.3.5,146.25.75.157,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL19-PIB,,17.3.5,146.25.75.158,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL2-Admin-257,,17.3.5,146.25.75.141,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL20-Purchasing,,17.3.5,146.25.75.159,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL21-Reliability,,17.3.5,146.25.75.160,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL22-Tank-Truck,,17.3.5,146.25.75.161,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL23-TECH223,,17.3.5,146.25.75.162,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL24-ToolRoom,,17.3.5,146.25.75.163,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL25-Utilities,,17.3.5,146.25.75.164,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL28-RIE,,17.3.5,146.25.75.167,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL3-BS,,17.3.5,146.25.75.142,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL31-Building142,,17.3.5,146.25.75.170,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL4-CCR,,17.3.5,146.25.75.143,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL5-Cogen,,17.3.5,146.25.75.144,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL6-Cont-Shed,,17.3.5,146.25.75.145,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL7-Ecology,,17.3.5,146.25.75.146,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCHSL8-Filter,,17.3.5,146.25.75.147,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+BCOSL10,,16.9.5,146.35.2.20,Cisco,Cisco Catalyst 9300 Series Switch,US,BCO,Cisco IOS XE Software
+BCOSL11,,16.9.5,146.35.2.21,Cisco,Cisco Catalyst 9300 Series Switch,US,BCO,Cisco IOS XE Software
+BCOSL13,,16.9.5,146.35.2.23,Cisco,Cisco Catalyst 9300 Series Switch,US,BCO,Cisco IOS XE Software
+BCOSL14,,17.3.5,146.35.2.24,Cisco,Cisco Catalyst 9300 Series Switch,US,BCO,Cisco IOS XE Software
+BCOSL5,,17.3.5,146.35.3.229,Cisco,Cisco Catalyst 9407R Switch,US,BCO,Cisco IOS XE Software
+BCOSL7,,17.3.5,146.35.2.17,Cisco,Cisco Catalyst 9300 Series Switch,US,BCO,Cisco IOS XE Software
+BCOSL8,,16.9.5,146.35.2.18,Cisco,Cisco Catalyst 9300 Series Switch,US,BCO,Cisco IOS XE Software
+BCOSL9,,17.3.5,146.35.2.19,Cisco,Cisco Catalyst 9300 Series Switch,US,BCO,Cisco IOS XE Software
+BCOWC-02,,17.6.3,146.35.251.210,Cisco,Cisco C9800LFK9,US,BCO,Cisco IOS XE Software
+BDOSL66,,17.3.4,146.35.134.30,Cisco,Cisco Catalyst 9300 Series Switch,US,BDO,Cisco IOS XE Software
+BDOrd3,,16.3.5,146.35.143.250,Cisco,Cisco ASR1002-X,US,BDO,Cisco IOS XE Software
+BDOrv1-IPT,,16.9.4,146.34.12.254,Cisco,Cisco Catalyst 38xx stack,US,BDO,Cisco IOS XE Software
+BDOrv2-IPT,,16.9.5,146.34.12.253,Cisco,Cisco Catalyst 38xx stack,US,BDO,Cisco IOS XE Software
+BIR240SL1,,17.3.5,146.25.86.1,Cisco,Cisco Catalyst 9300 Series Switch,US,BIR240,Cisco IOS XE Software
+BK4241SS-DCRAR7-N56128-D,,7.3(3)N1(1),146.35.18.37,Cisco,Nexus 56128P,US,F06960,Cisco Nexus
+BK4241SS-DCRAR7-N56128-c,,7.3(3)N1(1),146.35.18.36,Cisco,Nexus 56128P,US,F06960,Cisco Nexus
+BK4241SS_DCR1R7_N56128_A,,7.0(8)N1(1),146.35.18.34,Cisco,Nexus 56128P,US,F06960,Cisco Nexus
+BK4241SS_DCR2R7_N56128_B,,7.0(8)N1(1),146.35.18.35,Cisco,Nexus 56128P,US,F06960,Cisco Nexus
+BK4241rd3,,16.3.5,146.35.19.250,Cisco,Cisco ASR1002-X,US,F06960,Cisco IOS XE Software
+BK9525GA2-IPT_C4331,,16.12.4,146.34.13.251,Cisco,Cisco 4431 ISR,US,BK9525,Cisco IOS XE Software
+BK9525RV1-IPT,,17.3.4,146.34.13.254,Cisco,Cisco Catalyst 9300 Series Switch,US,BK9525,Cisco IOS XE Software
+BK9525RV2-IPT,,17.3.4,146.34.13.253,Cisco,Cisco Catalyst 9300 Series Switch,US,BK9525,Cisco IOS XE Software
+BK9525rd3,,16.3.5,146.35.175.251,Cisco,Cisco ASR1002-X,US,BK9525,Cisco IOS XE Software
+BLMTAPRA1,,16.12.3,146.39.242.252,Cisco,Cisco 4331 ISR,US,BLMTAP,Cisco IOS XE Software
+BLMTAPSL1,,17.3.5,146.39.242.130,Cisco,Cisco Catalyst 9300 Series Switch,US,BLMTAP,Cisco IOS XE Software
+BOGCCMFibasw-3850,,16.9.4,146.39.35.124,Cisco,Cisco Catalyst 38xx stack,US,BOG Pte Aranda,Cisco IOS XE Software
+BOGaswCND-9K-1,,17.3.5,146.39.35.23,Cisco,Cisco C9200L,US,BOG,Cisco IOS XE Software
+BOGaswpro-9200,,17.3.5,146.39.35.125,Cisco,Cisco C9200L,US,BOG,Cisco IOS XE Software
+BR-SP-F09153-RB01,,17.6.3a,139.65.214.148,Cisco,Cisco,US,F09153,Cisco IOS XE Software
+BR-SP-F09153-RB02,,17.6.3a,139.65.214.149,Cisco,Cisco,US,F09153,Cisco IOS XE Software
+BRPLS3,,17.3.5,136.171.246.4,Cisco,Cisco Catalyst 9300 Series Switch,US,BRP,Cisco IOS XE Software
+BRPSL1,,17.3.5,136.171.244.4,Cisco,Cisco Catalyst 9300 Series Switch,US,BRP,Cisco IOS XE Software
+BRPSL1A,,17.3.5,136.171.255.4,Cisco,Cisco Catalyst 9300 Series Switch,US,BRP,Cisco IOS XE Software
+BRPSL2A,,17.3.5,136.171.245.7,Cisco,Cisco Catalyst 9300 Series Switch,US,BRP,Cisco IOS XE Software
+BRPSL4,,17.3.5,136.171.247.4,Cisco,Cisco Catalyst 9300 Series Switch,US,BRP,Cisco IOS XE Software
+BRPSL6,,17.3.5,136.171.253.4,Cisco,Cisco Catalyst 9300 Series Switch,US,BRP,Cisco IOS XE Software
+BRPSLWP2,,17.3.5,136.171.240.4,Cisco,Cisco Catalyst 9300 Series Switch,US,BRP,Cisco IOS XE Software
+BUE355SL00,,17.3.5,146.39.15.4,Cisco,Cisco Catalyst 9300 Series Switch,US,BUE355,Cisco IOS XE Software
+BUE355SL18,,17.3.5,146.39.5.4,Cisco,Cisco Catalyst 9300 Series Switch,US,BUE355,Cisco IOS XE Software
+BUE355SL19,,17.3.5,146.39.11.4,Cisco,Cisco Catalyst 9300 Series Switch,US,BUE355,Cisco IOS XE Software
+BUE355SL20,,17.3.5,146.39.10.4,Cisco,Cisco Catalyst 9300 Series Switch,US,BUE355,Cisco IOS XE Software
+BUE355SL21,,17.3.5,146.39.7.4,Cisco,Cisco Catalyst 9300 Series Switch,US,BUE355,Cisco IOS XE Software
+BUE355SLDC1,,16.12.7,146.34.191.120,Cisco,Cisco Catalyst 38xx stack,US,BUE355,Cisco IOS XE Software
+BUE355SLDC2,,16.12.7,146.34.191.121,Cisco,Cisco Catalyst 38xx stack,US,BUE355,Cisco IOS XE Software
+BZMAUSL1-C9300-48UXM,,17.6.3,146.39.222.4,Cisco,Cisco Catalyst 9300 Series Switch,US,BZMAU,Cisco IOS XE Software
+BZMAUSL10-C9300-48UXM,,17.6.3,146.39.222.13,Cisco,Cisco Catalyst 9300 Series Switch,US,BZMAU,Cisco IOS XE Software
+BZMAUSL11-C9300-48UXM,,17.6.3,146.39.222.14,Cisco,Cisco Catalyst 9300 Series Switch,US,BZMAU,Cisco IOS XE Software
+BZMAUSL4-9300-48UXM,,17.6.3,146.39.222.8,Cisco,Cisco Catalyst 9300 Series Switch,US,BZMAU,Cisco IOS XE Software
+BZMAUSL5-9300-48UXM,,17.6.3,146.39.222.7,Cisco,Cisco Catalyst 9300 Series Switch,US,BZMAU,Cisco IOS XE Software
+BZMAUSL7-C9300-48P,,17.3.4,146.39.222.10,Cisco,Cisco Catalyst 9300 Series Switch,US,BZMAU,Cisco IOS XE Software
+BZMAUSL8-C9300-48P,,17.3.4,146.39.222.11,Cisco,Cisco Catalyst 9300 Series Switch,US,BZMAU,Cisco IOS XE Software
+BZMAUSL9-C9300-48UXM,,17.6.3,146.39.222.12,Cisco,Cisco Catalyst 9300 Series Switch,US,BZMAU,Cisco IOS XE Software
+BZRJORD7-ASR1002X,,15.2(4)S5,146.39.200.245,Cisco,Cisco ASR1002-X,US,F06117,IOS XE Version: 03.07.05.S
+CA-AB-CALDC-SE01V,,16.12.4,139.65.210.170,Cisco,Catalyst 9500-48Y4C,US,CALDC,Cisco IOS XE Software
+CALDCRB1,,16.9.4,146.29.2.250,Cisco,Cisco ASR1002-X,US,CALDC,Cisco IOS XE Software
+CAR110RA1,,16.12.4,144.5.196.210,Cisco,Cisco 4331 ISR,US,CAR110,Cisco IOS XE Software
+CAR110RA2,,16.12.4,144.5.196.211,Cisco,Cisco 4331 ISR,US,CAR110,Cisco IOS XE Software
+CAR110SL1,,16.9.5,144.5.196.212,Cisco,Cisco Catalyst 38xx stack,US,CAR110,Cisco IOS XE Software
+CARVESL6-C3850,,16.12.7,146.39.104.6,Cisco,Cisco Catalyst 38xx stack,US,CARVE,Cisco IOS XE Software
+CARVESL8-3850,,16.12.7,146.39.104.7,Cisco,Cisco Catalyst 38xx stack,US,CARVE,Cisco IOS XE Software
+CARVESLX-C3850-CCTV,,16.12.7,146.39.104.27,Cisco,Cisco Catalyst 38xx stack,US,CARVE,Cisco IOS XE Software
+CC2440RE1,,16.12.4,144.5.195.224,Cisco,Cisco 4331 ISR,US,CC2440,Cisco IOS XE Software
+CC2440RE2,,16.12.4,144.5.195.229,Cisco,Cisco 4331 ISR,US,CC2440,Cisco IOS XE Software
+CC2440SE1,,17.3.5,144.5.195.244,Cisco,Cisco Catalyst 9300 Series Switch,US,CC2440,Cisco IOS XE Software
+CC2440SE2,,17.3.5,144.5.118.2,Cisco,Cisco Catalyst 9300 Series Switch,US,CC2440,Cisco IOS XE Software
+CC2440SE3,,17.3.5,144.5.118.3,Cisco,Cisco Catalyst 9300 Series Switch,US,CC2440,Cisco IOS XE Software
+CC2440SE4,,16.12.4,144.5.118.4,Cisco,Cisco Catalyst 9300 Series Switch,US,CC2440,Cisco IOS XE Software
+CHASCSL1,,16.12.7,146.25.100.249,Cisco,Cisco Catalyst 38xx stack,US,CHASC,Cisco IOS XE Software
+CHASCSL2,,16.12.7,146.25.100.2,Cisco,Cisco Catalyst 38xx stack,US,CHASC,Cisco IOS XE Software
+CHASCSL3,,16.12.7,146.25.100.3,Cisco,Cisco Catalyst 38xx stack,US,CHASC,Cisco IOS XE Software
+CHASCSL4,,16.12.7,146.25.100.4,Cisco,Cisco Catalyst 38xx stack,US,CHASC,Cisco IOS XE Software
+CHVPK-H2CR-R114-MS41-Forensics,,16.12.7,146.27.65.28,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPK-H2CR-R114-PL39A,,7.3(3)N1(1),146.27.65.31,Cisco,Cisco Nexus 5596 UP,US,CHVPKH,Cisco Nexus
+CHVPK-H2CR-R115-PL40B,,7.3(3)N1(1),146.27.65.32,Cisco,Cisco Nexus 5596 UP,US,CHVPKH,Cisco Nexus
+CHVPK-H2CR-R625-MS34,,16.12.7,146.27.65.2,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPK-H2CR-R625-PL37B,,7.3(3)N1(1),146.27.65.9,Cisco,Cisco Nexus 5596 UP,US,CHVPKH,Cisco Nexus
+CHVPK-H2CR-R625-PL40A,,7.3(3)N1(1),146.27.65.8,Cisco,Cisco Nexus 5596 UP,US,CHVPKH,Cisco Nexus
+CHVPK-H2CR-R625-PR42B,,7.0(3)I7(4),146.27.65.5,Cisco,Cisco Nexus 9372PX-E,US,CHVPKH,Cisco Nexus
+CHVPK-H2CR-R625-PR44A,,7.0(3)I7(4),139.65.20.158,Cisco,Cisco Nexus 9372PX-E,US,CHVPKH,Cisco Nexus
+CHVPK-H2CR-R625-PR44A,,7.0(3)I7(4),146.27.65.4,Cisco,Cisco Nexus 9372PX-E,US,CHVPKH,Cisco Nexus
+CHVPK-H2CR-R816-MS45,,16.12.7,146.27.65.38,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPK-H2CR-R922-PL37B,,9.3(2),146.27.65.49,Cisco,Cisco Nexus 9336C-FX2,US,CHVPKH,Cisco Nexus
+CHVPK-H2CR-R925-MS42,,16.12.7,146.27.65.14,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPK-H2CR-R926-MS34,,16.12.7,146.27.65.15,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPK-H2CR-R926-PL29B,,7.3(3)N1(1),146.27.65.7,Cisco,Cisco Nexus 5596 UP,US,CHVPKH,Cisco Nexus
+CHVPK-H2CR-R926-PL32A,,7.3(3)N1(1),146.27.65.6,Cisco,Cisco Nexus 5596 UP,US,CHVPKH,Cisco Nexus
+CHVPK-H2CR-R927-MS42,,16.12.7,146.27.65.16,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPKASL-A1005,,16.12.7,146.27.2.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKA,Cisco IOS XE Software
+CHVPKASL-A1037,,16.12.7,146.27.2.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKA,Cisco IOS XE Software
+CHVPKASL-A1155,,16.12.7,146.27.2.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKA,Cisco IOS XE Software
+CHVPKASL-A1261-A,,16.12.7,146.27.3.196,Cisco,Cisco Catalyst 38xx stack,US,CHVPKA,Cisco IOS XE Software
+CHVPKASL-A1261-B,,16.12.7,146.27.2.7,Cisco,Cisco Catalyst 38xx stack,US,CHVPKA,Cisco IOS XE Software
+CHVPKASL-A2069,,16.12.7,146.27.4.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKA,Cisco IOS XE Software
+CHVPKASL-A2205,,16.12.7,146.27.4.7,Cisco,Cisco Catalyst 38xx stack,US,CHVPKA,Cisco IOS XE Software
+CHVPKASL-A3069,,16.12.7,146.27.6.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKA,Cisco IOS XE Software
+CHVPKASL-A3299,,16.12.7,146.27.6.7,Cisco,Cisco Catalyst 38xx stack,US,CHVPKA,Cisco IOS XE Software
+CHVPKASL-A4361,,17.3.5,146.27.90.4,Cisco,Cisco Catalyst 9407R Switch,US,CHVPKA,Cisco IOS XE Software
+CHVPKASL-FRONTGATE,,16.12.7,146.27.3.130,Cisco,Cisco Catalyst 38xx stack,US,CHVPK,Cisco IOS XE Software
+CHVPKBSL-B1005,,16.12.7,146.27.136.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKB,Cisco IOS XE Software
+CHVPKBSL-B1085,,16.12.7,146.27.136.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKB,Cisco IOS XE Software
+CHVPKBSL-B1165,,16.12.7,146.27.136.7,Cisco,Cisco Catalyst 38xx stack,US,CHVPKB,Cisco IOS XE Software
+CHVPKBSL-B1223,,16.12.7,146.27.136.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKB,Cisco IOS XE Software
+CHVPKBSL-B2007,,16.12.7,146.27.138.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKB,Cisco IOS XE Software
+CHVPKBSL-B2085,,16.12.7,146.27.138.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKB,Cisco IOS XE Software
+CHVPKBSL-B2223,,16.12.7,146.27.138.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKB,Cisco IOS XE Software
+CHVPKBSL-B2357,,16.12.7,146.27.138.7,Cisco,Cisco Catalyst 38xx stack,US,CHVPKB,Cisco IOS XE Software
+CHVPKCSL-C0073,,16.12.7,146.27.47.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKC,Cisco IOS XE Software
+CHVPKCSL-C0217,,16.9.5,146.27.47.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKC,Cisco IOS XE Software
+CHVPKCSL-C0217-4,,17.3.5,146.27.47.254,Cisco,Cisco Catalyst 9300 Series Switch,US,CHVPK,Cisco IOS XE Software
+CHVPKCSL-C0297,,16.12.7,146.27.47.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKC,Cisco IOS XE Software
+CHVPKCSL-C0297B,,17.3.5,146.27.47.21,Cisco,Cisco Catalyst 9500 series with 48 Ports of 1G/10G/25G + 4 Ports of 40G/100G,US,CHVPK,Cisco IOS XE Software
+CHVPKCSL-C0357,,16.12.7,146.27.47.7,Cisco,Cisco Catalyst 38xx stack,US,CHVPKC,Cisco IOS XE Software
+CHVPKCSL-C1081,,16.12.7,146.27.15.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKC,Cisco IOS XE Software
+CHVPKCSL-C1221,,16.12.7,146.27.15.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKC,Cisco IOS XE Software
+CHVPKCSL-C1297,,16.12.7,146.27.15.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKC,Cisco IOS XE Software
+CHVPKCSL-C1357,,16.12.7,146.27.15.7,Cisco,Cisco Catalyst 38xx stack,US,CHVPKC,Cisco IOS XE Software
+CHVPKCSL-C2081,,16.12.7,146.27.139.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKC,Cisco IOS XE Software
+CHVPKCSL-C2221,,16.12.7,146.27.139.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKC,Cisco IOS XE Software
+CHVPKCSL-C2297,,16.12.7,146.27.139.7,Cisco,Cisco Catalyst 38xx stack,US,CHVPKC,Cisco IOS XE Software
+CHVPKCSL-C2357,,16.12.7,146.27.139.8,Cisco,Cisco Catalyst 38xx stack,US,CHVPKC,Cisco IOS XE Software
+CHVPKDSL-D1079,,16.12.7,146.27.174.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKD,Cisco IOS XE Software
+CHVPKDSL-D1219,,16.12.7,146.27.174.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKD,Cisco IOS XE Software
+CHVPKDSL-D1359,,16.12.7,146.27.174.10,Cisco,Cisco Catalyst 38xx stack,US,CHVPKD,Cisco IOS XE Software
+CHVPKDSL-D2083,,16.12.7,146.27.21.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKD,Cisco IOS XE Software
+CHVPKDSL-D2221,,16.12.7,146.27.21.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKD,Cisco IOS XE Software
+CHVPKDSL-D2297,,16.12.7,146.27.21.8,Cisco,Cisco Catalyst 38xx stack,US,CHVPKD,Cisco IOS XE Software
+CHVPKDSL-D2359,,16.12.7,146.27.21.10,Cisco,Cisco Catalyst 38xx stack,US,CHVPKD,Cisco IOS XE Software
+CHVPKESL-E1409-1,,16.12.7,146.27.112.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKE,Cisco IOS XE Software
+CHVPKFSL-F1083,,16.12.7,146.27.26.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKF,Cisco IOS XE Software
+CHVPKFSL-F1297,,16.12.7,146.27.26.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKF,Cisco IOS XE Software
+CHVPKFSL-F1364,,16.12.7,146.27.26.7,Cisco,Cisco Catalyst 38xx stack,US,CHVPK: CHVPKFSL-F1364,Cisco IOS XE Software
+CHVPKFSL-F2219,,16.12.7,146.27.86.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKF,Cisco IOS XE Software
+CHVPKFSL-F2361,,16.12.7,146.27.86.7,Cisco,Cisco Catalyst 38xx stack,US,CHVPKF,Cisco IOS XE Software
+CHVPKGA3-IPT,,16.12.4,146.34.6.72,Cisco,Cisco 4431 ISR,US,CHVPKH,Cisco IOS XE Software
+CHVPKGA5-IPT,,16.12.4,146.34.6.74,Cisco,Cisco 4431 ISR,US,CHVPKH,Cisco IOS XE Software
+CHVPKGSL-G1005,,16.12.7,146.27.40.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKG,Cisco IOS XE Software
+CHVPKGSL-G1223,,16.12.7,146.27.40.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKG,Cisco IOS XE Software
+CHVPKGSL-G2005,,16.12.7,146.27.42.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKG,Cisco IOS XE Software
+CHVPKHSL-H0234,,16.12.7,146.27.58.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPKHSL-H1065,,16.12.7,146.27.23.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPKHSL-H1295,,16.12.7,146.27.23.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPKHSL-H1401,,16.12.7,146.27.23.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPKHSL-H1418-A,,16.12.7,146.27.13.2,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPKHSL-H1418-B,,16.12.7,146.27.13.3,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPKHSL-H1418-LAB-N5kA,,7.3(3)N1(1),146.27.13.246,Cisco,Cisco Nexus 5548,US,CHVPKH,Cisco Nexus
+CHVPKHSL-H1418-LAB-N5kB,,7.3(3)N1(1),146.27.13.247,Cisco,Cisco Nexus 5548,US,CHVPKH,Cisco Nexus
+CHVPKHSL-H1433,,16.12.7,146.27.23.7,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPKHSL-H2063,,16.12.7,146.27.28.7,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPKHSL-H2126,,16.12.7,146.27.28.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPKHSL-H2252,,16.12.7,146.27.28.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPKHSL-H2295,,16.12.7,146.27.28.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPKHSL-H3128,,16.12.7,146.27.30.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKH,Cisco IOS XE Software
+CHVPKJSL-J1172,,16.12.7,146.27.119.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKJ,Cisco IOS XE Software
+CHVPKJSL-J1337,,16.12.7,146.27.119.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKJ,Cisco IOS XE Software
+CHVPKKSL-K1025,,16.12.7,146.27.106.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKK,Cisco IOS XE Software
+CHVPKKSL-K1129,,16.12.7,146.27.106.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKK,Cisco IOS XE Software
+CHVPKKSL-K1451,,16.12.7,146.27.106.7,Cisco,Cisco Catalyst 38xx stack,US,CHVPKK,Cisco IOS XE Software
+CHVPKKSL-K2101,,16.12.7,146.27.108.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKK,Cisco IOS XE Software
+CHVPKKSL-K2302,,16.12.7,146.27.108.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKK,Cisco IOS XE Software
+CHVPKKSL-K2407,,16.12.7,146.27.108.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKK,Cisco IOS XE Software
+CHVPKKSL-K2451,,16.12.7,146.27.108.7,Cisco,Cisco Catalyst 38xx stack,US,CHVPKK,Cisco IOS XE Software
+CHVPKLSL-L0083,,16.12.7,146.27.16.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKL,Cisco IOS XE Software
+CHVPKLSL-L0243,,16.12.7,146.27.16.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKL,Cisco IOS XE Software
+CHVPKLSL-L1161,,16.12.7,146.27.18.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKL,Cisco IOS XE Software
+CHVPKLSL-L1295,,16.12.7,146.27.18.7,Cisco,Cisco Catalyst 38xx stack,US,CHVPKL,Cisco IOS XE Software
+CHVPKLSL-L2085,,16.12.7,146.27.20.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKL,Cisco IOS XE Software
+CHVPKLSL-L3295,,16.12.7,146.27.22.7,Cisco,Cisco Catalyst 38xx stack,US,CHVPKL,Cisco IOS XE Software
+CHVPKLSL-L3349,,16.12.7,146.27.22.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKL,Cisco IOS XE Software
+CHVPKLSL-L4085,,16.12.7,146.27.24.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKL,Cisco IOS XE Software
+CHVPKLSL-L4161,,16.12.7,146.27.24.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKL,Cisco IOS XE Software
+CHVPKLSL-L4295,,16.12.7,146.27.24.7,Cisco,Cisco Catalyst 38xx stack,US,CHVPKL,Cisco IOS XE Software
+CHVPKLSL-L4349,,16.12.7,146.27.24.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKL,Cisco IOS XE Software
+CHVPKTSL-T0205,,16.12.7,146.27.99.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKT,Cisco IOS XE Software
+CHVPKTSL-T1161,,16.12.7,146.27.98.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKT,Cisco IOS XE Software
+CHVPKTSL-T1349,,16.12.7,146.27.98.4,Cisco,Cisco Catalyst 38xx stack,US,CHVPKT,Cisco IOS XE Software
+CHVPKTSL-T2069,,16.12.7,146.27.100.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKT,Cisco IOS XE Software
+CHVPKTSL-T2161,,16.12.7,146.27.100.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKT,Cisco IOS XE Software
+CHVPKTSL-T4069,,16.12.7,146.27.104.6,Cisco,Cisco Catalyst 38xx stack,US,CHVPKT,Cisco IOS XE Software
+CHVPKWSL-W1622,,16.12.7,146.27.117.5,Cisco,Cisco Catalyst 38xx stack,US,CHVPKW,Cisco IOS XE Software
+CLBaswP6-9K-2,,17.3.5,146.39.34.104,Cisco,Cisco C9200L,US,CLB,Cisco IOS XE Software
+CLBaswP6-9K-3,,17.3.5,146.39.34.107,Cisco,Cisco C9200L,US,CLB,Cisco IOS XE Software
+CO-DC-BOG-RL2,,17.3.5,146.39.35.251,Cisco,Cisco Catalyst 9407R Switch,US,BOG,Cisco IOS XE Software
+COLMSSL1,,17.3.5,146.24.127.125,Cisco,Cisco Catalyst 9300 Series Switch,US,COLMS,Cisco IOS XE Software
+COV100GA1-IPT,,16.9.4,146.34.10.67,Cisco,Cisco 4431 ISR,US,COV100,Cisco IOS XE Software
+COV100N5K-R04R09A,,7.3(3)N1(1),146.24.240.4,Cisco,Cisco Nexus 5672UP,US,COV100,Cisco Nexus
+COV100N5K-R04R09B,,7.3(3)N1(1),146.24.240.5,Cisco,Cisco Nexus 5672UP,US,COV100,Cisco Nexus
+COV100N5K-R5R08A,,7.3(3)N1(1),146.24.240.6,Cisco,Cisco Nexus 5672UP,US,COV100,Cisco Nexus
+COV100RV1-IPT,,16.9.5,146.34.10.250,Cisco,Cisco Catalyst 9300 Series Switch,US,COV100,Cisco IOS XE Software
+COV100SL24,,16.9.5,146.24.233.5,Cisco,Cisco Catalyst 9300 Series Switch,US,GPA3,Cisco IOS XE Software
+CPL594SL01,,16.12.1,146.46.75.2,Cisco,Cisco Catalyst IE-3300-8P2S Rugged Switch,US,CPL594,Cisco IOS XE Software
+CPL594ra1,,17.2.1r,146.46.75.1,Cisco,Cisco,US,CPL594,Cisco IOS XE Software
+CPLPA2ra1,,17.3.3,146.46.73.1,Cisco,Cisco,US,CPL592,Cisco IOS XE Software
+CPLSM1SL01,,16.12.1,146.46.74.2,Cisco,Cisco Catalyst IE-3300-8P2S Rugged Switch,US,CPLSM1,Cisco IOS XE Software
+CPLSM1SL02,,16.12.3,146.46.74.3,Cisco,Cisco Catalyst IE-3300-8P2S Rugged Switch,US,CPLSM1,Cisco IOS XE Software
+CPLSM1SL04,,16.12.1,146.46.74.5,Cisco,Cisco Catalyst IE-3300-8P2S Rugged Switch,US,CPLSM1,Cisco IOS XE Software
+CR3051SL1,,17.3.4,146.24.173.244,Cisco,Cisco Catalyst 9300 Series Switch,US,CR3051,Cisco IOS XE Software
+CTGrt2,,15.5(3)M6a,146.39.36.61,Cisco,Cisco 2911K9,US,CTG,Cisco IOS XE Software
+CTOrt1,,16.12.4,146.39.38.212,Cisco,Cisco 4331 ISR,US,CTO,Cisco IOS XE Software
+CTXRA1,,16.9.4,146.33.6.124,Cisco,Cisco 4351 ISR,US,CTX,Cisco IOS XE Software
+DALQX3GS1,,16.9.4,146.34.0.9,Cisco,Cisco ASR1002-X,US,DALQX3,Cisco IOS XE Software
+DALQX3GS2,,16.9.4,146.34.0.10,Cisco,Cisco ASR1002-X,US,DALQX3,Cisco IOS XE Software
+DALQX3GS3,,16.9.4,144.5.23.2,Cisco,Cisco ASR1002-X,US,DALQX3,Cisco IOS XE Software
+DALQX3GS4,,16.9.4,144.5.23.3,Cisco,Cisco ASR1002-X,US,DALQX3,Cisco IOS XE Software
+DALQX3RD10,,16.12.5,139.65.152.225,Cisco,Cisco ASR 1001-X Router,US,DALQX3,Cisco IOS XE Software
+DALQX3RD11,,15.4(3)S4,146.46.189.181,Cisco,Cisco 4431 ISR,US,DALQX3,Cisco IOS XE Software
+DALQX3RE40,,15.4(2)S0a,146.46.189.182,Cisco,Cisco ASR 1001-X Router,US,DALQX3,Cisco IOS XE Software
+DALQX3SS1,,16.9.4,146.34.0.4,Cisco,Cisco Catalyst 38xx stack,US,DALQX3,Cisco IOS XE Software
+DALQX3SS2,,16.9.4,146.34.0.5,Cisco,Cisco Catalyst 38xx stack,US,DALQX3,Cisco IOS XE Software
+DAN-3850-CORE,,16.12.8,10.11.10.2,Cisco,Cisco Catalyst 38xx stack,US,Danville New Admin Office,Cisco IOS XE Software
+DEB598RG1-HG,,16.9.5,146.33.61.73,Cisco,Cisco Catalyst 38xx stack,US,DEB598,Cisco IOS XE Software
+DEB598RG2-CPF2,,16.9.5,146.33.62.1,Cisco,Cisco Catalyst 38xx stack,US,DEB598,Cisco IOS XE Software
+DEB598RG3-27-1,,16.12.7,146.33.59.252,Cisco,Cisco Catalyst 38xx stack,US,DEB598,Cisco IOS XE Software
+DEB598SL25-25-4,,16.9.5,146.33.62.25,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,DEB598,Cisco IOS XE Software
+DEB598SL3-TR3,,16.9.5,146.33.63.7,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,DEB598,Cisco IOS XE Software
+DEB598SL4-TR4,,16.9.5,146.33.63.8,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,DEB598,Cisco IOS XE Software
+DEB598SL9-27-1,,16.9.5,146.33.59.2,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,DEB598,Cisco IOS XE Software
+DORRA1,,16.9.4,146.25.108.60,Cisco,Cisco 4331 ISR,US,DOR,Cisco IOS XE Software
+DORSL1,,16.9.5,146.25.108.1,Cisco,Cisco Catalyst 9300 Series Switch,US,DOR,Cisco IOS XE Software
+ELTARCSL1,,16.12.1,146.41.211.6,Cisco,Cisco Catalyst 9300 Series Switch,US,ELTAR,Cisco IOS XE Software
+ELTARCSL15,,17.3.5,146.41.211.17,Cisco,Cisco Catalyst 9300 Series Switch,US,ELTAR,Cisco IOS XE Software
+ELTARCSL18,,16.12.1,146.39.30.36,Cisco,Cisco Catalyst 9300 Series Switch,US,ELTAR,Cisco IOS XE Software
+ELTARCSL2,,16.12.1,146.41.211.7,Cisco,Cisco Catalyst 9300 Series Switch,US,ELTAR,Cisco IOS XE Software
+ELTARCSL3,,16.12.1,146.41.211.8,Cisco,Cisco Catalyst 9300 Series Switch,US,ELTAR,Cisco IOS XE Software
+ELTARCSL4,,16.12.1,146.41.211.9,Cisco,Cisco Catalyst 9300 Series Switch,US,ELTAR,Cisco IOS XE Software
+ELTARCSL5,,16.12.1,146.41.211.10,Cisco,Cisco Catalyst 9300 Series Switch,US,ELTAR,Cisco IOS XE Software
+ELTARCSL7,,16.12.1,146.41.211.12,Cisco,Cisco Catalyst 9300 Series Switch,US,ELTAR,Cisco IOS XE Software
+ELTARSL41,,17.3.5,146.39.22.9,Cisco,Cisco Catalyst 9300 Series Switch,US,ELTAR,Cisco IOS XE Software
+ELTARSL51,,16.12.1,146.39.22.10,Cisco,Cisco Catalyst 9300 Series Switch,US,ELTAR,Cisco IOS XE Software
+ELTARSL93,,16.9.2,146.39.23.45,Cisco,Cisco Catalyst 9300 Series Switch,US,ELTAR,Cisco IOS XE Software
+EMD-CORE-3850,,16.12.8,146.30.9.72,Cisco,Cisco Catalyst 38xx stack,US,EMDEN,Cisco IOS XE Software
+EMPRA1,,16.9.2,146.24.76.248,Cisco,Cisco 4351 ISR,US,EMP,Cisco IOS XE Software
+EMPSL1,,16.9.5,146.24.76.249,Cisco,Cisco Catalyst 38xx stack,US,EMP,Cisco IOS XE Software
+EMPSL2,,16.9.5,146.24.76.5,Cisco,Cisco Catalyst 38xx stack,US,EMP,Cisco IOS XE Software
+EMPSL3,,16.9.5,146.24.76.6,Cisco,Cisco Catalyst 38xx stack,US,EMP,Cisco IOS XE Software
+ESASL2,,17.3.5,146.39.66.10,Cisco,Cisco Catalyst 9300 Series Switch,US,F07564,Cisco IOS XE Software
+ESEPIN-2CRUDE-ACS1,,16.12.4,146.26.170.71,Cisco,Cisco Catalyst 38xx stack,US,ESE,Cisco IOS XE Software
+ESEPIN-ACIGBRMTRL-ACS1,,16.12.5b,146.26.170.91,Cisco,Cisco Catalyst 38xx stack,US,ESE,Cisco IOS XE Software
+ESEPIN-BLENDSHIP-FRC,,16.12.7,146.26.170.33,Cisco,Cisco Catalyst 38xx stack,US,ESE,Cisco IOS XE Software
+ESEPIN-COGEN-FRC,,16.12.7,146.26.170.14,Cisco,Cisco Catalyst 38xx stack,US,ESE,Cisco IOS XE Software
+ESEPIN-HRD-ACS1,,16.12.7,146.26.170.68,Cisco,Cisco Catalyst 38xx stack,US,ESE,Cisco IOS XE Software
+ESEPIN-MO-1STFLOOR,,16.12.7,146.26.170.32,Cisco,Cisco Catalyst 38xx stack,US,ESE,Cisco IOS XE Software
+ESEPIN-NEXSRV-ROC2,,7.0(3)I4(7),146.26.168.246,Cisco,Cisco Nexus 9372TX-E,US,ESE,Cisco Nexus
+ESEPIN-PKGWH-2NDFL,,16.12.7,146.26.170.26,Cisco,Cisco Catalyst 38xx stack,US,ESE,Cisco IOS XE Software
+EURSL1,,16.12.7,146.26.12.1,Cisco,Cisco Catalyst 38xx stack,US,EUR,Cisco IOS XE Software
+EVA313RV1,,16.12.4,146.33.39.252,Cisco,Cisco 4331 ISR,US,EVA313,Cisco IOS XE Software
+EVA313SL1,,16.12.7,146.33.39.253,Cisco,Cisco Catalyst 38xx stack,US,EVA313,Cisco IOS XE Software
+F06052sl1,,16.9.5,146.35.223.130,Cisco,Cisco Catalyst 38xx stack,US,F06052,Cisco IOS XE Software
+F07538SL1,,16.12.7,146.26.3.254,Cisco,Cisco Catalyst 38xx stack,US,F07538,Cisco IOS XE Software
+F08122SL1-C3850,,16.12.7,146.39.122.130,Cisco,Cisco Catalyst 38xx stack,US,F08122,Cisco IOS XE Software
+F08579RA1,,16.9.5,146.29.1.178,Cisco,Cisco 4331 ISR,US,F08579,Cisco IOS XE Software
+F08628SL1,,17.3.4,144.5.246.2,Cisco,Cisco Catalyst 9300 Series Switch,US,F08628,Cisco IOS XE Software
+F08714SL3,,16.9.5,144.5.211.3,Cisco,Cisco Catalyst 38xx stack,US,F08741,Cisco IOS XE Software
+F08741RA1,,16.12.4,146.26.33.245,Cisco,Cisco 4331 ISR,US,F08741,Cisco IOS XE Software
+F08741SL1,,16.12.7,146.26.33.247,Cisco,Cisco Catalyst 38xx stack,US,F08741,Cisco IOS XE Software
+F08820-Dock,,17.3.4,146.33.223.70,Cisco,Cisco Catalyst 9300 Series Switch,US,F08820,Cisco IOS XE Software
+F08820-SatelliteHouse11,,17.3.4,146.33.209.178,Cisco,Cisco Catalyst 9300 Series Switch,US,F08820,Cisco IOS XE Software
+F08820-SatelliteHouse31,,17.3.4,146.33.209.137,Cisco,Cisco Catalyst 9300 Series Switch,US,F08820,Cisco IOS XE Software
+F08820RCC-Distribution,,17.3.5,146.33.219.147,Cisco,Cisco Catalyst 9300 Series Switch,US,F08820,Cisco IOS XE Software
+F08820RL1,,16.12.02,146.33.219.225,Cisco,Cisco C9606R Virtual Stack,US,F08820,Cisco IOS XE Software
+F08820_Admin,,17.3.4b,146.33.217.2,Cisco,Cisco C9200R Fixed Switch Stack,US,F08820,Cisco IOS XE Software
+F08820_AlkyBlockhouse,,17.3.5,146.33.209.130,Cisco,Cisco Catalyst 9300 Series Switch,US,F08820,Cisco IOS XE Software
+F08820_EET,,17.3.5,146.33.223.130,Cisco,Cisco Catalyst 9300 Series Switch,US,F08820,Cisco IOS XE Software
+F08820_RCC,,17.3.5,146.33.211.130,Cisco,Cisco Catalyst 9300 Series Switch,US,F08820,Cisco IOS XE Software
+F08820_SecurityBldg,,17.3.5,146.33.209.226,Cisco,Cisco Catalyst 9300 Series Switch,US,F08820,Cisco IOS XE Software
+F08820_WP12Plex,,17.3.5,146.33.222.130,Cisco,Cisco Catalyst 9300 Series Switch,US,F08820,Cisco IOS XE Software
+F08820_WPLTOTrailer,,17.3.5,146.33.210.4,Cisco,Cisco Catalyst 9300 Series Switch,US,F08820,Cisco IOS XE Software
+F08820_WPLab,,17.3.5,146.33.211.194,Cisco,Cisco Catalyst 9300 Series Switch,US,F08820,Cisco IOS XE Software
+F08820_WPMaintTrailer,,17.3.5,146.33.210.2,Cisco,Cisco Catalyst 9300 Series Switch,US,F08820,Cisco IOS XE Software
+F08846RA1,,16.12.4,146.26.3.252,Cisco,Cisco 4331 ISR,US,F08846,Cisco IOS XE Software
+F08895SL1,,17.3.5,146.39.61.2,Cisco,Cisco Catalyst 9300 Series Switch,US,F08895,Cisco IOS XE Software
+F08946RL1,,17.1.1,146.39.153.1,Cisco,Cisco Catalyst 9606R Switch,US,F08946,Cisco IOS XE Software
+F08946RL2,,17.1.1,146.39.153.2,Cisco,Cisco Catalyst 9606R Switch,US,F08946:,Cisco IOS XE Software
+F08946WLC10,,17.6.4,146.39.153.11,Cisco,Cisco,US,F08946,Cisco IOS XE Software
+FAR801RA1,,16.12.4,146.26.8.252,Cisco,Cisco 4331 ISR,US,FAR801,Cisco IOS XE Software
+FAR801SL1,,16.12.7,146.26.8.253,Cisco,Cisco Catalyst 38xx stack,US,FAR801,Cisco IOS XE Software
+FLA140RA1,,16.12.4,146.25.80.188,Cisco,Cisco 4331 ISR,US,FLA140,Cisco IOS XE Software
+FLA140SL1,,17.3.4,146.25.80.189,Cisco,Cisco Catalyst 9300 Series Switch,US,FLA140,Cisco IOS XE Software
+FOULASL1,,16.9.4,146.32.145.66,Cisco,Cisco Catalyst 38xx stack,US,GPA3,Cisco IOS XE Software
+FOULASL2-MC,,16.12.7,146.32.145.67,Cisco,Cisco Catalyst 38xx stack,US,FOULA,Cisco IOS XE Software
+GALSL1,,16.9.5,146.26.243.249,Cisco,Cisco Catalyst 38xx stack,US,GAL,Cisco IOS XE Software
+GB-LND-LONPWG-RB01,,17.6.3a,139.65.213.24,Cisco,Catalyst 8500L-8S4X,US,LONPWG,Cisco IOS XE Software
+GH-CORE-3850,,16.12.8,10.29.4.1,Cisco,Cisco Catalyst 38xx stack,US,Grays Harbor Server Room,Cisco IOS XE Software
+GPA3SL1,,17.3.5,146.33.127.1,Cisco,Cisco Catalyst 9300 Series Switch,US,GPA3,Cisco IOS XE Software
+GPA3SL3,,17.3.5,146.33.127.3,Cisco,Cisco Catalyst 9300 Series Switch,US,GPA3,Cisco IOS XE Software
+GPA3ra1,,16.12.4,146.33.127.60,Cisco,Cisco 4331 ISR,US,GPA3,Cisco IOS XE Software
+GRJ760SL1,,16.9.5,146.33.56.4,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,GRJ760,Cisco IOS XE Software
+GRJ760SL2,,16.9.5,146.33.56.5,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,GRJ760,Cisco IOS XE Software
+GUA218SL2,,17.3.5,146.26.27.133,Cisco,Cisco Catalyst 9300 Series Switch,US,GUA218,Cisco IOS XE Software
+GUA610RD1,,16.12.4,146.33.25.249,Cisco,Cisco 4351 ISR,US,GUA610,Cisco IOS XE Software
+HO1400SL1,,16.12.7,136.171.228.251,Cisco,Cisco Catalyst 38xx stack,US,HO1400,Cisco IOS XE Software
+HO1400SL2,,16.12.7,146.36.127.2,Cisco,Cisco Catalyst 38xx stack,US,HOU140,Cisco IOS XE Software
+HOU140GA1-IPT,,16.12.4,146.34.9.67,Cisco,Cisco 4431 ISR,US,HOU140,Cisco IOS XE Software
+HOU140RV1-IPT,,16.12.7,146.34.9.254,Cisco,Cisco Catalyst 38xx stack,US,HOU140,Cisco IOS XE Software
+HOU140RV2-IPT,,16.12.7,146.34.9.253,Cisco,Cisco Catalyst 38xx stack,US,HOU140,Cisco IOS XE Software
+HOU140SL03,,17.3.5,146.36.180.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL04,,17.3.5,146.36.239.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL05,,17.3.5,146.36.252.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL06,,17.3.5,146.36.253.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL08,,17.3.5,146.36.184.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL10,,17.3.5,146.36.186.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL11,,17.3.5,146.36.187.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL12,,17.3.5,146.36.188.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL13,,17.3.5,146.36.189.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL14,,17.3.5,146.36.190.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL15,,17.3.5,146.36.237.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL16,,17.3.5,146.36.177.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL17,,17.3.5,146.36.162.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL18,,17.3.5,146.36.163.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL1B2,,16.12.4,136.171.227.3,Cisco,Cisco Catalyst 38xx stack,US,HOU140,Cisco IOS XE Software
+HOU140SL20,,17.3.5,146.36.236.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL21,,17.3.5,146.36.224.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL23,,17.3.5,146.36.232.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL24,,17.3.5,146.36.233.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL25,,17.3.5,146.36.238.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL26,,17.3.5,146.36.226.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL28,,17.3.5,146.36.227.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL29,,17.3.5,146.36.228.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL30,,17.3.5,146.36.229.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL32,,17.3.5,146.36.231.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL36,,17.3.5,146.36.171.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL39,,17.3.5,146.36.241.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL40,,17.3.5,146.36.249.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL41,,17.3.5,146.36.250.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL42,,17.3.5,146.36.242.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL43,,17.3.5,146.36.243.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL44,,17.3.5,146.36.244.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL45,,17.3.5,146.36.245.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL48,,17.3.4,146.36.246.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL48B,,16.12.4,146.36.246.5,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL48C,,16.9.5,146.36.246.6,Cisco,Cisco Catalyst 38xx stack,US,HOU140,Cisco IOS XE Software
+HOU140SL49,,16.12.4,146.36.165.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU140,Cisco IOS XE Software
+HOU140SL49C,,16.12.4,146.36.165.6,Cisco,Cisco Catalyst 38xx stack,US,HOU140,Cisco IOS XE Software
+HOU150-06043-ITFCR1-HL39B,,7.0(7)N1(1),146.36.48.8,Cisco,Cisco Nexus 5548,US,HOU150,Cisco Nexus
+HOU150-06043-ITFCR2-HL41A,,7.0(7)N1(1),146.36.48.7,Cisco,Cisco Nexus 5548,US,HOU150,Cisco Nexus
+HOU150-08LAB-N76-L13A,,7.0(3)I7(4),134.248.209.69,Cisco,Cisco Nexus 93180YC-FX,US,HOU150,Cisco Nexus
+HOU150-08LAB-N76-L15B,,7.0(3)I7(4),134.248.209.70,Cisco,Cisco Nexus 93180YC-FX,US,HOU150,Cisco Nexus
+HOU150-08LAB-N76-L17A,,9.3(3),134.248.209.71,Cisco,Nexus 93108TC-FX,US,HOU150,Cisco Nexus
+HOU150-08LAB-N76-L19B,,9.3(3),134.248.209.72,Cisco,Nexus 93108TC-FX,US,HOU150,Cisco Nexus
+HOU150-08P01-P68-MS12,,16.9.4,134.248.214.25,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,HOU150,Cisco IOS XE Software
+HOU150-08P01A-P68-HL32A,,7.3(3)N1(1),134.248.209.24,Cisco,Cisco Nexus 5672UP,US,HOU150,Cisco Nexus
+HOU150-08P01B-P68-HL28B,,7.3(3)N1(1),134.248.209.25,Cisco,Cisco Nexus 5672UP,US,HOU150,Cisco Nexus
+HOU150-08P02E-L104-MS39,,16.9.4,134.248.214.51,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,HOU150,Cisco IOS XE Software
+HOU150-08P02E-N107-MS39,,16.9.4,134.248.214.52,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,HOU150,Cisco IOS XE Software
+HOU150-08P02E-R111-MS39,,16.9.4,134.248.214.53,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,HOU150,Cisco IOS XE Software
+HOU150-08P03A-P79-PL30A,,7.3(3)N1(1),134.248.209.36,Cisco,Cisco Nexus 5672UP,US,HOU150,Cisco Nexus
+HOU150-08P03B-P79-PL28B,,7.3(3)N1(1),134.248.209.37,Cisco,Cisco Nexus 5672UP,US,HOU150,Cisco Nexus
+HOU150-09-M57-MS35,,16.9.4,134.248.214.73,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,HOU150,Cisco IOS XE Software
+HOU150-09MDA-G74-AR03B,,6.2(12),134.248.209.11,Cisco,Nexus 7718,US,HOU150,Cisco Nexus
+HOU150-09MDA-G74-AR03B-EX,,6.2(12),134.248.209.17,Cisco,Nexus 7718,US,HOU150,Cisco Nexus
+HOU150-09MDA-G74-AR03B-PR,,6.2(12),146.36.9.1,Cisco,Nexus 7718,US,HOU150,Cisco Nexus
+HOU150-09MDA-G79-AR03A,,6.2(12),134.248.209.10,Cisco,Nexus 7718,US,HOU150,Cisco Nexus
+HOU150-09MDA-G79-AR03A-EX,,6.2(12),134.248.209.16,Cisco,Nexus 7718,US,HOU150,Cisco Nexus
+HOU150-09MDA-G79-AR03A-HS,,6.2(12),134.248.209.12,Cisco,Nexus 7718,US,HOU150,"sh: /tmp/sysmgrcli_show_flash_size: Permission denied
+Cisco Nexus"
+HOU150-09MDA-G79-AR03A-PR,,6.2(12),146.36.9.2,Cisco,Nexus 7718,US,HOU150,Cisco Nexus
+HOU150-09MDA-J74-S19B,,7.0(3)I7(4),134.248.209.9,Cisco,Cisco Nexus 9K C9364C,US,HOU150,Cisco Nexus
+HOU150-09MDA-J79-S19A,,7.0(3)I7(4),134.248.209.8,Cisco,Cisco Nexus 9K C9364C,US,HOU150,Cisco Nexus
+HOU150-09MDA-M74-HL15B,,7.3(3)N1(1),134.248.209.23,Cisco,Cisco Nexus 5672UP,US,HOU150,Cisco Nexus
+HOU150-09MDA-M74-HL21B,,7.0(8)N1(1),134.248.209.39,Cisco,Cisco Nexus 5672UP,US,HOU150,Cisco Nexus
+HOU150-09MDA-M74-MS18,,16.9.4,134.248.214.12,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,HOU150,Cisco IOS XE Software
+HOU150-09MDA-M74-PL23B,,7.3(3)N1(1),134.248.209.31,Cisco,Cisco Nexus 5672UP,US,HOU150,Cisco Nexus
+HOU150-09MDA-M79-HL15A,,7.3(3)N1(1),134.248.209.22,Cisco,Cisco Nexus 5672UP,US,HOU150,Cisco Nexus
+HOU150-09MDA-M79-L16A,,7.0(3)I7(4),134.248.209.40,Cisco,Cisco Nexus 93180YC-FX,US,HOU150,Cisco Nexus
+HOU150-09MDA-M79-MS18,,16.9.4,134.248.214.10,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,HOU150,Cisco IOS XE Software
+HOU150-09P01-E52-L38A,,7.0(3)I7(3),134.248.209.46,Cisco,Cisco Nexus 93180YC-FX,US,HOU150,Cisco Nexus
+HOU150-09P01-E52-L41A,,7.0(3)I7(4),134.248.209.42,Cisco,Cisco Nexus 93180LC-EX,US,HOU150,Cisco Nexus
+HOU150-09P01A-E52-MS37,,16.9.5,134.248.214.65,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,HOU150,Cisco IOS XE Software
+HOU150-09P01B-F49-MS37,,16.9.5,134.248.214.66,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,HOU150,Cisco IOS XE Software
+HOU150-09P07-QQ109-L30A,,7.0(3)I7(7),134.248.209.63,Cisco,Nexus 93108TC-FX,US,HOU150,Cisco Nexus
+HOU150-09P07-RR114-L28B,,7.0(3)I7(7),134.248.209.68,Cisco,Nexus 93108TC-FX,US,HOU150,Cisco Nexus
+HOU150-09P09-E67-L34B,,7.0(3)I7(4),134.248.209.66,Cisco,Cisco Nexus 93180YC-FX,US,HOU150,Cisco Nexus
+HOU150-09P09-E67-L35A,,7.0(3)I7(4),134.248.209.65,Cisco,Cisco Nexus 93180YC-FX,US,HOU150,Cisco Nexus
+HOU150-09PBUA-MM109-H42A,,7.0(3)I7(4),134.248.209.56,Cisco,Cisco Nexus 9336C-FX2,US,HOU150,Cisco Nexus
+HOU150-09PBUA-QQ109-PL39A,,9.2(3),134.248.209.54,Cisco,Cisco Nexus 9336C-FX2,US,HOU150,Cisco Nexus
+HOU150-09PBUB-RR114-PL39B,,9.2(3),134.248.209.55,Cisco,Cisco Nexus 9336C-FX2,US,HOU150,Cisco Nexus
+HOU150-ETC-09MDA-E74-OCORE2B-HPC,,7.3(3)N1(1),134.248.213.12,Cisco,Nexus 5696Q,US,HOU150,Cisco Nexus
+HOU150-ETC-09MDA-E79-OCORE1A-HPC,,7.3(3)N1(1),134.248.248.93,Cisco,Nexus 5696Q,US,HOU150,Cisco Nexus
+HOU150-ETC-09MDA-E79-OCORE1A-HPC,,7.3(3)N1(1),134.248.213.11,Cisco,Nexus 5696Q,US,HOU150,Cisco Nexus
+HOU150-ETC-09MDA-J74-CORE2B-HPC,,7.0(3)I7(4),134.248.213.20,Cisco,Cisco Nexus 9K C9364C,US,HOU150,Cisco Nexus
+HOU150-ETC-09MDA-J79-CORE1A-HPC,,7.0(3)I7(4),134.248.213.19,Cisco,Cisco Nexus 9K C9364C,US,HOU150,Cisco Nexus
+HOU150-ETC-09Q32A-PL39-HPC,,7.3(3)N1(1),134.248.213.15,Cisco,Nexus 5696Q,US,HOU150,Cisco Nexus
+HOU150-ETC-09Q32B-PL29-HPC,,7.3(3)N1(1),134.248.213.16,Cisco,Nexus 5696Q,US,HOU150,Cisco Nexus
+HOU150-ETC-09VV58-MS,,17.3.4,134.248.213.160,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU150,Cisco IOS XE Software
+HOU150-ETC-09VV58-PL22B-HPC,,7.3(3)N1(1),134.248.213.27,Cisco,Nexus 5696Q,US,HOU150,Cisco Nexus
+HOU150-ETC-09VV58-PL34A-HPC,,7.3(3)N1(1),134.248.213.26,Cisco,Nexus 5696Q,US,HOU150,Cisco Nexus
+HOU150-ETC-09VV66-HPC-9K,,7.0(3)I7(4),134.248.213.196,Cisco,Cisco Nexus 93180YC-FX,US,HOU150,Cisco Nexus
+HOU150-ETC-09VV82-MS42,,16.6.3,134.248.213.142,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU150,Cisco IOS XE Software
+HOU150-ETC-09VV82-MS43,,17.3.4,134.248.213.141,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU150,Cisco IOS XE Software
+HOU150-ETC-09VV82A-RU35-HPC,,7.0(3)I7(4),134.248.213.143,Cisco,Cisco Nexus 9K C9364C,US,HOU150,Cisco Nexus
+HOU150-ETC-09VV82B-RU32-HPC,,7.0(3)I7(4),134.248.213.144,Cisco,Cisco Nexus 9K C9364C,US,HOU150,Cisco Nexus
+HOU150-ETC-09VV82C-RU26-HPC,,7.0(3)I7(4),134.248.213.145,Cisco,Cisco Nexus 9K C9364C,US,HOU150,Cisco Nexus
+HOU150-ETC-09VV82D-RU23-HPC,,7.0(3)I7(4),134.248.213.146,Cisco,Cisco Nexus 9K C9364C,US,HOU150,"sh: /mnt/pss/patch_debug.log: Read-only file system
+Cisco Nexus"
+HOU150-ETC-09WW66-HPC-9K,,7.0(3)I7(4),134.248.213.197,Cisco,Cisco Nexus 93180YC-FX,US,HOU150,Cisco Nexus
+HOU150-ETC-09XX66-HPC-9K,,7.0(3)I7(4),134.248.213.198,Cisco,Cisco Nexus 93180YC-FX,US,HOU150,Cisco Nexus
+HOU150-RTSN-9K84-MS31,,16.9.4,134.248.214.54,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,HOU150,Cisco IOS XE Software
+HOU150C9KB_NN7,,16.6.3,136.171.179.98,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU150,Cisco IOS XE Software
+HOU150DC11R11A,,7.3(3)N1(1),146.36.9.101,Cisco,Cisco Nexus 5596 UP,US,HOU150,Cisco Nexus
+HOU150DC11R11B,,7.3(3)N1(1),146.36.9.103,Cisco,Cisco Nexus 5596 UP,US,HOU150,Cisco Nexus
+HOU150DC11R11D,,7.3(3)N1(1),146.36.9.107,Cisco,Cisco Nexus 5596 UP,US,HOU150,Cisco Nexus
+HOU150DC11R14A,,7.3(3)N1(1),146.36.9.102,Cisco,Cisco Nexus 5596 UP,US,HOU150,Cisco Nexus
+HOU150DC11R14B,,7.3(3)N1(1),146.36.9.104,Cisco,Cisco Nexus 5596 UP,US,HOU150,Cisco Nexus
+HOU150DC11R14D,,7.3(3)N1(1),146.36.9.108,Cisco,Cisco Nexus 5596 UP,US,HOU150,Cisco Nexus
+HOU150GA5-IPT,,16.12.4,146.34.4.74,Cisco,Cisco 4431 ISR,US,HOU150,Cisco IOS XE Software
+HOU150GA6-IPT,,16.12.4,146.34.4.75,Cisco,Cisco 4431 ISR,US,HOU150,Cisco IOS XE Software
+HOU150M605KD-A,,7.3(3)N1(1),136.171.100.68,Cisco,Cisco Nexus 5548,US,HOU150,Cisco Nexus
+HOU150M605KD-B,,7.3(3)N1(1),136.171.100.69,Cisco,Cisco Nexus 5548,US,HOU150,Cisco Nexus
+HOU150RI01,,7.3(3)N1(1),146.46.188.18,Cisco,Cisco Nexus 5672UP,US,HOU150,Cisco Nexus
+HOU150RI02,,7.3(3)N1(1),146.46.188.19,Cisco,Cisco Nexus 5672UP,US,HOU150,Cisco Nexus
+HOU150RV1-IPT,,16.12.7,146.34.4.254,Cisco,Cisco Catalyst 38xx stack,US,HOU150,Cisco IOS XE Software
+HOU150RV2-IPT,,16.12.7,146.34.4.253,Cisco,Cisco Catalyst 38xx stack,US,HOU150,Cisco IOS XE Software
+HOU150SE01,,7.3(3)N1(1),146.46.188.20,Cisco,Cisco Nexus 5672UP,US,HOU150,Cisco Nexus
+HOU150SE02,,7.3(3)N1(1),146.46.188.21,Cisco,Cisco Nexus 5672UP,US,HOU150,Cisco Nexus
+HOU150SL09ENV,,17.3.5,146.36.58.4,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL1,,17.3.5,146.36.41.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL10,,17.3.5,146.36.10.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL11,,17.3.5,146.36.101.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL13,,17.3.5,146.36.13.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL14,,17.3.5,146.36.14.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL16,,17.3.5,146.36.16.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL17,,17.3.5,146.36.17.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL18,,17.3.5,146.36.18.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL19,,17.3.5,146.36.19.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL20,,16.12.4,146.36.20.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL21,,17.3.5,146.36.21.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL22,,17.3.5,146.36.22.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL23-23067,,16.12.7,146.36.5.178,Cisco,Cisco Catalyst 38xx stack,US,HOU150,Cisco IOS XE Software
+HOU150SL24,,17.3.5,146.36.24.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL26,,17.3.5,146.36.26.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL27,,17.3.5,146.36.27.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL28,,17.3.5,146.36.28.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL29,,17.3.5,146.36.29.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL29ENV,,17.3.5,146.36.58.5,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL30,,17.3.5,146.36.30.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL31,,17.3.5,146.36.31.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL33,,17.3.5,146.36.33.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL34,,17.3.5,146.36.34.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL37,,17.3.5,146.36.37.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL38,,17.3.5,146.36.38.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL3A,,16.12.4,146.36.42.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL3B,,16.12.4,146.36.43.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL3C,,16.12.4,146.36.43.5,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL4A,,17.3.5,146.36.44.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL4B,,17.3.5,146.36.45.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL5A,,17.3.5,146.36.46.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL5AV,,17.3.5,146.36.52.5,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL5B,,17.3.5,146.36.47.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL6A,,17.3.5,146.36.48.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL6B,,17.3.5,146.36.49.4,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL6C,,17.3.5,146.36.48.6,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SL7B,,17.3.5,146.36.50.6,Cisco,Cisco Catalyst 9407R Switch,US,HOU150,Cisco IOS XE Software
+HOU150SS8K53B,,7.3(3)N1(1),136.171.190.5,Cisco,Cisco Nexus 5672UP,US,HOU150,Cisco Nexus
+HOU150SS9DDD101A,,7.3(3)N1(1),146.36.9.60,Cisco,Cisco Nexus 5548,US,HOU150,Cisco Nexus
+HOU150SS9DDD101B,,7.3(3)N1(1),146.36.9.61,Cisco,Cisco Nexus 5548,US,HOU150,Cisco Nexus
+HOU150SS9M57A,,7.3(3)N1(1),146.36.9.20,Cisco,Cisco Nexus 5548,US,HOU150,Cisco Nexus
+HOU150SS9N92B,,7.3(3)N1(1),146.36.9.31,Cisco,Cisco Nexus 5548,US,HOU150,Cisco Nexus
+HOU150SS9N92C,,7.3(3)N1(1),146.36.7.9,Cisco,Cisco Nexus 5596 UP,US,HOU150,Cisco Nexus
+HOU150SS9N92D,,7.3(3)N1(1),146.36.7.10,Cisco,Cisco Nexus 5596 UP,US,HOU150,Cisco Nexus
+HOU150SS9R25D,,7.3(3)N1(1),146.36.9.11,Cisco,Cisco Nexus 5548,US,HOU150,Cisco Nexus
+HOU150SS9XX45B,,7.3(3)N1(1),146.36.9.51,Cisco,Cisco Nexus 5548,US,HOU150,Cisco Nexus
+HOU400RA1,,16.3.5,146.33.111.124,Cisco,Cisco 4331 ISR,US,HOU400,Cisco IOS XE Software
+HOU464RE1,,16.9.4,144.5.196.223,Cisco,Cisco 4331 ISR,US,HOU464,Cisco IOS XE Software
+HOU599RE1,,16.12.4,144.5.28.28,Cisco,Cisco 4331 ISR,US,HOU599,Cisco IOS XE Software
+IN-MH-F08685-RA02,,16.12.4,144.5.25.232,Cisco,Cisco 4431 ISR,US,F08685:,Cisco IOS XE Software
+IN-MH-F08685-SL01,,16.12.4,144.5.25.233,Cisco,Cisco Catalyst 9300 Series Switch,US,F08685:,Cisco IOS XE Software
+IQ-AR-ERV423-RB01,,17.6.3a,139.65.182.39,Cisco,Cisco,US,WAN SDWAN : ERV423,Cisco IOS XE Software
+JFPM-RB01,,17.4.1b,139.65.180.30,Cisco,Cisco,US,JFPM,Cisco IOS XE Software
+KZ-ATY-F09001-SL06,,9.3(8),146.31.56.9,Cisco,Cisco Nexus 93180YC-FX,US,TCOTEN,Cisco Nexus
+KZ-ATY-F09001-SS01,,9.3(8),146.31.56.2,Cisco,Cisco Nexus 9K C9364C,US,,Cisco Nexus
+LAT173RA1,,16.12.4,146.33.75.248,Cisco,Cisco 4351 ISR,US,LAT173,Cisco IOS XE Software
+LOMAMXRL1,,17.3.5,146.39.64.254,Cisco,Cisco Catalyst 9300 Series Switch,US,LOMAMX,Cisco IOS XE Software
+LOMAMXSL3,,17.3.5,146.39.64.11,Cisco,Cisco Catalyst 9300 Series Switch,US,LOMAMX,Cisco IOS XE Software
+LONPWGRD10,,16.12.5,139.65.213.15,Cisco,Cisco ASR 1001-X Router,US,LONPWG,Cisco IOS XE Software
+LOU440SL1,,17.3.4,146.25.11.254,Cisco,Cisco Catalyst 9300 Series Switch,US,LOU440,Cisco IOS XE Software
+LOU440SL2,,16.12.7,146.25.11.130,Cisco,Cisco Catalyst 38xx stack,US,LOU440,Cisco IOS XE Software
+LOU940RA3,,16.12.4,146.25.7.251,Cisco,Cisco 4351 ISR,US,LOU940,Cisco IOS XE Software
+LOU940SL1,,16.9.5,146.25.7.248,Cisco,Cisco Catalyst 9300 Series Switch,US,LOU940,Cisco IOS XE Software
+LUAA29-MS2,,16.9.2,139.65.210.120,Cisco,Cisco Catalyst 9300 Series Switch,US,TCOATH,Cisco IOS XE Software
+MAD-CORE-3850,,16.12.8,10.30.4.1,Cisco,Cisco Catalyst 38xx stack,US,MADISON,Cisco IOS XE Software
+MARCASL-MAIN,,15.2(4)E5,146.26.89.1,Cisco,Catalyst 37xx Stack,US,MARCA,Cisco IOS XE Software
+MAVSL2-C3850,,16.12.7,146.39.123.3,Cisco,Cisco Catalyst 38xx stack,US,MAV,Cisco IOS XE Software
+MCBU-GIL35-STAGESL2,,17.3.4,146.36.249.13,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU140,Cisco IOS XE Software
+MCKGA1-IPT,,16.9.4,146.35.195.247,Cisco,Cisco 4331 ISR,US,MCK,Cisco IOS XE Software
+MDOS-DC-RSW1,,16.6.5,146.30.169.228,Cisco,Cisco Catalyst 38xx stack,US,F09133,Cisco IOS XE Software
+MDOS-DC-RSW7,,16.6.5,146.30.169.200,Cisco,Cisco Catalyst 38xx stack,US,F09133,Cisco IOS XE Software
+MDWSL16,,16.9.5,146.35.201.53,Cisco,Cisco Catalyst 38xx stack,US,MDW,Cisco IOS XE Software
+MEX405SL1,,16.12.7,146.39.62.253,Cisco,Cisco Catalyst 38xx stack,US,MEX405,Cisco IOS XE Software
+MI630ARD1-PTP,,16.3.5,146.24.135.247,Cisco,Cisco ASR1002-X,US,MI630A,Cisco IOS XE Software
+MI630MCBUrp2,,15.4(3)S2,139.65.21.14,Cisco,Cisco ASR1002-X,US,MI630,Cisco IOS XE Software
+MID2ASL1,,16.9.5,146.24.173.246,Cisco,Cisco Catalyst 9300 Series Switch,US,MID2A,Cisco IOS XE Software
+MON188RE1,,16.12.4,144.5.180.250,Cisco,Cisco 4331 ISR,US,MON188,Cisco IOS XE Software
+MONCASL1,,17.3.5,146.26.43.249,Cisco,Cisco Catalyst 9300 Series Switch,US,MONCA,Cisco IOS XE Software
+MYTUTSL1,,16.12.7,146.33.25.234,Cisco,Cisco Catalyst 38xx stack,US,MYTUT,Cisco IOS XE Software
+NA-BR-RJ-SL05,,16.12.4,146.39.192.4,Cisco,Cisco Catalyst 9300 Series Switch,US,F06117,Cisco IOS XE Software
+NA-BR-RJ-SL06,,16.12.4,146.39.193.4,Cisco,Cisco Catalyst 9300 Series Switch,US,F06117,Cisco IOS XE Software
+NA-BR-RJ-SL07,,16.12.4,146.39.194.4,Cisco,Cisco Catalyst 9300 Series Switch,US,F06117,Cisco IOS XE Software
+NA-BR-SP-A-F09153-SE01V,,16.12.4,139.65.214.140,Cisco,Catalyst 9500-48Y4C,US,F09153,Cisco IOS XE Software
+NA-US-PASMS-ADM-TC1-SL1,,16.12.4,146.25.49.132,Cisco,Cisco Catalyst 9300 Series Switch,US,PASMS,Cisco IOS XE Software
+NA-US-PASMS-ADM-TC3-SL1,,17.3.4,146.25.44.196,Cisco,Cisco Catalyst 9300 Series Switch,US,PASMS,Cisco IOS XE Software
+NA-US-PASMS-ADM-TC3-SL2,,16.12.4,146.25.44.132,Cisco,Cisco Catalyst 9300 Series Switch,US,PASMS,Cisco IOS XE Software
+NA-US-PASMS-ADM-TC4-SL1,,17.3.4,146.25.44.4,Cisco,Cisco Catalyst 9300 Series Switch,US,PASMS,Cisco IOS XE Software
+NA-US-PASMS-ADM-TC5-SL1,,17.3.4,146.25.45.4,Cisco,Cisco Catalyst 9300 Series Switch,US,PASMS,Cisco IOS XE Software
+NA-US-PASMS-ARO-Comrep-SL1,,17.3.4,146.25.34.196,Cisco,Cisco Catalyst 9300 Series Switch,US,PASMS,Cisco IOS XE Software
+NA-US-PASMS-BLD-Secoff-SL1,,17.3.4,146.25.46.7,Cisco,Cisco Catalyst 9300 Series Switch,US,PASMS,Cisco IOS XE Software
+NA-US-PASMS-CK1-Lab-SL1,,17.3.5,146.25.42.12,Cisco,Cisco C9200R Fixed Switch Stack,US,PASMS,Cisco IOS XE Software
+NA-US-PASMS-CTD-PMM-SL1,,17.3.4,146.25.55.4,Cisco,Cisco Catalyst 9300 Series Switch,US,PASMS,Cisco IOS XE Software
+NA-US-PASMS-CTD-Receiving-SL1,,17.3.4,146.25.45.134,Cisco,Cisco Catalyst 9300 Series Switch,US,PASMS,Cisco IOS XE Software
+NA-US-PASMS-CTD-TOWER-SL01,,16.12.4,146.25.45.151,Cisco,Cisco Catalyst 9300 Series Switch,US,PASMS,Cisco IOS XE Software
+NA-US-PASMS-CTR-Garage-SL1,,17.3.5,146.25.41.136,Cisco,Cisco C9200R Fixed Switch Stack,US,PSG001,Cisco IOS XE Software
+NA-US-PASMS-CTR-IE-SL1,,17.3.4,146.25.41.132,Cisco,Cisco Catalyst 9300 Series Switch,US,PASMS,Cisco IOS XE Software
+NA-US-PASMS-CTR-SL1,,17.7.1,146.25.43.133,Cisco,Cisco Catalyst 9300 Series Switch,US,PSG001,Cisco IOS XE Software
+NA-US-PASMS-CYC-SL1,,17.7.1,146.25.36.4,Cisco,Cisco Catalyst 9300 Series Switch,US,PASMS,Cisco IOS XE Software
+NA-US-PASMS-FTG-ENT-SL01,,16.12.4,146.25.38.133,Cisco,Cisco Catalyst 9300 Series Switch,US,PASMS,Cisco IOS XE Software
+NA-US-PASMS-NDE-BRNHRT-SL1,,17.3.5,146.25.50.9,Cisco,Cisco C9200R Fixed Switch Stack,US,PASMS,Cisco IOS XE Software
+NA-US-PASMS-NDE-Sem-SL1,,17.3.5,146.25.50.6,Cisco,Cisco C9200R Fixed Switch Stack,US,PASMS,Cisco IOS XE Software
+NA-US-PASMS-UTL-C1A-SL1,,17.7.1,146.25.54.135,Cisco,Cisco Catalyst 9300 Series Switch,US,PASMS,Cisco IOS XE Software
+NA-US-PASMSSWA-PNW-PTC-CAM1,,16.12.3,146.25.30.86,Cisco,Cisco Catalyst IE-3200-8P2S Rugged Switch,US,PSG001,Cisco IOS XE Software
+NA-US-PASMSSWA-PNW-PTC-CAM2,,16.12.3,146.25.30.87,Cisco,Cisco Catalyst IE-3200-8P2S Rugged Switch,US,PSG001,Cisco IOS XE Software
+NA-US-PASMSSWA-PNW-PTC-CAM3,,16.12.3,146.25.30.88,Cisco,Cisco Catalyst IE-3200-8P2S Rugged Switch,US,PSG001,Cisco IOS XE Software
+NA-US-PASMSSWA-PNW-PTC-CAM4,,16.12.3,146.25.30.89,Cisco,Cisco Catalyst IE-3200-8P2S Rugged Switch,US,PSG001,Cisco IOS XE Software
+NA-US-PASMSSWA-PNW-PTC-TRST2,,16.12.3,146.25.30.85,Cisco,Cisco Catalyst IE-3200-8P2S Rugged Switch,US,PSG001,Cisco IOS XE Software
+NA-US-PASMSSWD-PNW-PTC,,17.3.4,146.25.30.90,Cisco,Cisco Catalyst 9300 Series Switch,US,PSG001,Cisco IOS XE Software
+NA-US-PASMSWA-ARO-Corep-SL2,,17.7.1,146.25.34.133,Cisco,Cisco Catalyst 9300 Series Switch,US,PSG001,Cisco IOS XE Software
+NA-US-PITCA-SL02,,17.3.4,146.26.88.4,Cisco,Cisco Catalyst 9300 Series Switch,US,PITCA,Cisco IOS XE Software
+NA-US-SLC235-ICS-SL1,,16.12.4,146.26.65.2,Cisco,Cisco Catalyst 9300 Series Switch,US,F07558,Cisco IOS XE Software
+NA-US-SLC235-IE_Tool_RV-SL1,,16.12.4,146.26.65.16,Cisco,Cisco Catalyst 9300 Series Switch,US,F07558,Cisco IOS XE Software
+NA-US-SLC235-ImpactTrl-SL1,,16.12.4,146.26.65.54,Cisco,Cisco Catalyst 9300 Series Switch,US,F07558,Cisco IOS XE Software
+NA-US-SLC235-TCLR-SL1,,16.12.4,146.26.65.41,Cisco,Cisco Catalyst 9300 Series Switch,US,F07558,Cisco IOS XE Software
+NA-US-SLC235-Warehouse-SL1,,16.12.4,146.26.65.3,Cisco,Cisco Catalyst 9300 Series Switch,US,F07558,Cisco IOS XE Software
+NA-US-VA-A-F09155-MS1,,None,139.65.214.70,Cisco,C9200L,US,F09155,Cisco IOS XE Software
+NA_Lab_R4331A,,16.9.4,136.171.179.48,Cisco,Cisco 4331 ISR,US,LAB,Cisco IOS XE Software
+NEUARSL01,,16.12.7,146.39.31.194,Cisco,Cisco Catalyst 38xx stack,US,NEUAR,Cisco IOS XE Software
+NEW-CORE-3850,,16.12.8,10.5.1.253,Cisco,Cisco Catalyst 38xx stack,US,,Cisco IOS XE Software
+NEXUS_5000_02,,7.0(1)N1(1),146.39.200.223,Cisco,Cisco Nexus 5596 UP,US,F06117,Cisco Nexus
+NUC-TEST-SW,,16.12.4,146.36.47.35,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU150,Cisco IOS XE Software
+OED-LAN2-9200,,17.6.1,146.30.248.3,Cisco,Cisco C9200L,US,,Cisco IOS XE Software
+PAMNJSL1,,16.9.5,146.25.78.125,Cisco,Cisco Catalyst 38xx stack,US,PAMNJ,Cisco IOS XE Software
+PANRL01,,17.3.5,146.39.240.1,Cisco,Cisco Catalyst 9300 Series Switch,US,PAN,Cisco IOS XE Software
+PASMSSWA-3FS-RackN,,16.12.7,146.25.47.11,Cisco,Cisco Catalyst 38xx stack,US,PASMS,Cisco IOS XE Software
+PASMSSWA-CK2-RIE,,17.3.4,146.25.42.17,Cisco,Cisco Catalyst 9300 Series Switch,US,PASMS,Cisco IOS XE Software
+PASMSSWA-PNC2,,16.12.7,146.25.51.132,Cisco,Cisco Catalyst 38xx stack,US,PASMS,Cisco IOS XE Software
+PASMSSWA-PNC3,,16.12.7,146.25.52.4,Cisco,Cisco Catalyst 38xx stack,US,PASMS,Cisco IOS XE Software
+PASMSSWA-PNC4,,16.12.7,146.25.52.133,Cisco,Cisco Catalyst 38xx stack,US,PSG001,Cisco IOS XE Software
+PASMSSWA-PNC6,,16.12.7,146.25.53.132,Cisco,Cisco Catalyst 38xx stack,US,PASMS,Cisco IOS XE Software
+PASMSSWD-CBRES,,16.12.7,146.25.39.197,Cisco,Cisco Catalyst 38xx stack,US,PASMS,Cisco IOS XE Software
+PASMSSWD-KIOSK,,16.12.7,146.25.33.212,Cisco,Cisco Catalyst 38xx stack,US,PASMS,Cisco IOS XE Software
+PASMSSWD-SHP,,16.12.7,146.25.48.133,Cisco,Cisco Catalyst 38xx stack,US,PASMS,Cisco IOS XE Software
+PASMSVGW-3FS-RackP,,17.6.3a,146.41.240.25,Cisco,Cisco 4431 ISR,US,PSG001,Cisco IOS XE Software
+PBORL1,,16.12.4,146.33.37.225,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,PBO,Cisco IOS XE Software
+PCHRA1,,16.12.4,146.39.69.217,Cisco,Cisco 4331 ISR,US,PCH,Cisco IOS XE Software
+PCHRL1,,16.12.4,146.39.69.129,Cisco,Cisco Catalyst 9300 Series Switch,US,PCH,Cisco IOS XE Software
+PCHSL2,,16.12.4,146.39.69.131,Cisco,Cisco Catalyst 9300 Series Switch,US,PCHSL2,Cisco IOS XE Software
+PCHSL4,,16.12.4,146.39.69.162,Cisco,Cisco Catalyst 9300 Series Switch,US,PCH,Cisco IOS XE Software
+PCHSL6,,16.12.7,146.39.69.133,Cisco,Cisco Catalyst 38xx stack,US,PCH,Cisco IOS XE Software
+PH-PSY-PHMS-RB02,,17.6.3a,139.65.183.44,Cisco,Cisco,US,PHMS,Cisco IOS XE Software
+PHRC-MS1,,17.3.4b,139.65.208.116,Cisco,Cisco C9200L,US,PHRC,Cisco IOS XE Software
+PITCASL1,,16.12.7,146.26.88.1,Cisco,Cisco Catalyst 38xx stack,US,PITCA,Cisco IOS XE Software
+POROR1RA1,,16.12.4,146.26.73.248,Cisco,Cisco 4331 ISR,US,POROR1,Cisco IOS XE Software
+POROR1SL10,,17.3.5,146.26.72.2,Cisco,Cisco Catalyst 9300 Series Switch,US,POROR1,Cisco IOS XE Software
+QUE469SL1,,16.9.5,146.26.37.249,Cisco,Cisco Catalyst 38xx stack,US,QUE469,Cisco IOS XE Software
+QUES32RA1,,16.9.4,146.33.25.222,Cisco,Cisco 4331 ISR,US,QUES32,Cisco IOS XE Software
+R-CYP-DMVPN-1,,16.9.6,146.30.171.178,Cisco,Cisco 4331 ISR,US,F09142,Cisco IOS XE Software
+R-DC1-DMVPN-1,,16.9.6,10.4.255.25,Cisco,Cisco ASR1002-X,US,F09129,Cisco IOS XE Software
+R-DC1-INET-2,,16.6.6,10.4.255.21,Cisco,Cisco ISR4451,US,F09129,Cisco IOS XE Software
+R-DC1-MPLS-1,,16.6.6,10.4.255.7,Cisco,Cisco ASR1002-X,US,F09129,Cisco IOS XE Software
+R-DC1-PTP-1,,15.5(2)S3,10.4.255.9,Cisco,Cisco 4331 ISR,US,F09129,Cisco IOS XE Software
+R-EGY-DMVPN-1,,16.9.6,146.30.176.113,Cisco,Cisco 4331 ISR,US,F09137,Cisco IOS XE Software
+R-GRE-DMVPN-2,,16.9.6,146.33.171.243,Cisco,Cisco ISR4451,US,F09146,Cisco IOS XE Software
+R-NEC1-DMVPN-1,,15.5(3)S10,10.14.255.25,Cisco,Cisco ASR 1002,US,F09129,Cisco IOS XE Software
+R-NEC1-INET-1,,15.5(3)S10,10.14.255.3,Cisco,Cisco ASR 1001 Router,US,F09129,Cisco IOS XE Software
+R-PEC-DMVPN-1,,16.9.6,146.33.150.33,Cisco,Cisco 4331 ISR,US,F09132,Cisco IOS XE Software
+R-PEC-DMVPN-2,,16.9.6,146.33.150.34,Cisco,Cisco 4331 ISR,US,F09132,Cisco IOS XE Software
+RAN2SL1,,17.3.4,146.24.195.1,Cisco,Cisco Catalyst 9300 Series Switch,US,RAN2,Cisco IOS XE Software
+RAN2SL4,,16.12.1,146.24.195.3,Cisco,Cisco Catalyst IE-3300-8P2S Rugged Switch,US,RAN2,Cisco IOS XE Software
+RIC100RM01,,17.3.4,146.28.175.249,Cisco,Cisco C9500-40X,US,RIC100,Cisco IOS XE Software
+RIC100RM02,,17.3.4,146.28.175.252,Cisco,Cisco C9500-40X,US,RIC100,Cisco IOS XE Software
+RIC100SL-10-1281,,17.3.4,146.28.160.4,Cisco,Cisco Catalyst 9407R Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-10-1581,,17.3.4,146.28.160.5,Cisco,Cisco Catalyst 9407R Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-10-2281,,17.3.4,146.28.161.4,Cisco,Cisco Catalyst 9407R Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-10-2581,,17.3.4,146.28.161.5,Cisco,Cisco Catalyst 9407R Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-10-3181,,17.3.4,146.28.138.5,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-10-3280,,17.3.4,146.28.162.4,Cisco,Cisco Catalyst 9407R Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-10-3580,,17.3.4,146.28.138.4,Cisco,Cisco Catalyst 9407R Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-14-1180,,17.3.4,146.28.146.4,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-24-1208-R1,,16.9.2,146.28.152.34,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-24-1208-R8,,16.9.2,146.28.152.35,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-24-1223,,17.3.4,146.28.146.5,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-31-3501,,17.3.4,146.28.152.9,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-31-3505,,17.3.4,146.28.152.7,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-32-2921,,17.3.4,146.28.152.8,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-33-2601,,17.3.4,146.28.144.8,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-35-2205,,17.3.4,146.28.152.4,Cisco,Cisco Catalyst 9407R Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-43-6249,,17.3.4,146.28.144.6,Cisco,Cisco Catalyst 9407R Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-44-1143A,,17.3.4,146.28.144.5,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-45-3467A,,17.3.4,146.28.144.4,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-50-1272,,17.3.4,146.28.143.5,Cisco,Cisco Catalyst 9407R Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-50-1290,,17.3.4,146.28.143.4,Cisco,Cisco Catalyst 9407R Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-51-1245,,17.3.4,146.28.142.5,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-54-1170,,17.3.4,146.28.150.10,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-60-1132,,17.3.4,146.28.163.4,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-61-4142,,17.3.4,146.28.150.13,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-61-4232,,17.3.4,146.28.150.9,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-63-4826,,17.3.4,146.28.150.12,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-71-7321-A,,17.3.4,146.28.164.4,Cisco,Cisco Catalyst 9407R Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-71-7321-B,,17.3.4,146.28.164.6,Cisco,Cisco Catalyst 9407R Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-71-7459,,17.3.4,146.28.164.5,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-98-2100,,17.3.4,146.28.150.4,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-REFADM-13,,17.3.4,146.28.174.4,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-RLP-ADMIN,,17.3.4,146.28.148.7,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-RLP-BLEND,,17.3.4,146.28.148.4,Cisco,Cisco Catalyst 9407R Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-RLP-FiberRm,,17.3.4,146.28.148.8,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-RLP-SHIPPING,,17.3.4,146.28.148.5,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC100SL-RLP-TRUCKRACK,,17.3.4,146.28.148.6,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC100,Cisco IOS XE Software
+RIC155SL1,,17.3.5,146.26.59.126,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC155,Cisco IOS XE Software
+RIC981SL1,,16.12.4,146.28.161.6,Cisco,Cisco Catalyst 9300 Series Switch,US,RIC981,Cisco IOS XE Software
+Ric841sl-bs-136-main,,16.9.5,146.28.180.10,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+Ric841sl-bs-146-cent,,16.9.5,146.28.191.14,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+Ric841sl-bs-911-chev,,16.9.5,146.28.184.13,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+SAC120RA1,,16.12.4,146.26.111.248,Cisco,Cisco 4331 ISR,US,SAC120,Cisco IOS XE Software
+SAC120SL1,,16.12.7,146.26.111.249,Cisco,Cisco Catalyst 38xx stack,US,SAC120,Cisco IOS XE Software
+SAC242RA1,,16.12.4,146.26.6.248,Cisco,Cisco 4331 ISR,US,SAC242,Cisco IOS XE Software
+SAC242SL1,,17.3.5,146.26.6.226,Cisco,Cisco Catalyst 9300 Series Switch,US,SAC242,Cisco IOS XE Software
+SARGA1-IPT,,16.12.4,146.35.231.250,Cisco,Cisco 4431 ISR,US,SAR,Cisco IOS XE Software
+SB3916RA1,,16.12.4,146.26.33.253,Cisco,Cisco 4351 ISR,US,SB3916,Cisco IOS XE Software
+SB3916RA2,,16.12.4,146.26.33.252,Cisco,Cisco 4351 ISR,US,SB3916,Cisco IOS XE Software
+SB3916SL1,,17.3.5,146.26.33.251,Cisco,Cisco Catalyst 9300 Series Switch,US,SB3916,Cisco IOS XE Software
+SB3916SL2,,17.3.5,146.26.33.250,Cisco,Cisco Catalyst 9300 Series Switch,US,SB3916,Cisco IOS XE Software
+SD2351RA1,,16.12.4,146.26.46.248,Cisco,Cisco 4331 ISR,US,SD2351,Cisco IOS XE Software
+SEN-3850-CORE,,16.12.8,10.13.1.253,Cisco,Cisco Catalyst 38xx stack,US,SENECA,Cisco IOS XE Software
+SFR1SL1,,16.12.7,146.26.105.249,Cisco,Cisco Catalyst 38xx stack,US,SFR1,Cisco IOS XE Software
+SFR1SL1,,16.12.7,146.26.105.1,Cisco,Cisco Catalyst 38xx stack,US,SFR1,Cisco IOS XE Software
+SG-01-SGJR-RB01,,17.6.3a,139.65.183.70,Cisco,Catalyst 8300-1N1S-6T,US,SGJR,Cisco IOS XE Software
+SG-01-SGJR-RB02,,17.6.3a,139.65.183.71,Cisco,Catalyst 8300-1N1S-6T,US,SGJR,Cisco IOS XE Software
+SG-01-SINQX1-CUBE01,,17.2.1r,139.65.213.149,Cisco,Cisco 4431 ISR,US,SINQX1,Cisco IOS XE Software
+SG-01-SINQX1-CUBE02,,17.2.1r,139.65.213.150,Cisco,Cisco 4431 ISR,US,SINQX1,Cisco IOS XE Software
+SG-05-SGDC1-RE40,,16.9.5,144.5.25.236,Cisco,Cisco ASR 1001-X Router,US,SINQX1,Cisco IOS XE Software
+SG-05-SINSI2-RG2,,17.5.1,146.40.18.195,Cisco,Cisco Catalyst 9500 series with 48 Ports of 1G/10G/25G + 4 Ports of 40G/100G,US,SINSI2,Cisco IOS XE Software
+SJCQX1GS2,,16.9.4,146.34.0.26,Cisco,Cisco ASR1002-X,US,SJCQX1,Cisco IOS XE Software
+SJCQX1GS3,,16.9.4,144.5.23.18,Cisco,Cisco ASR1002-X,US,SJCQX1,Cisco IOS XE Software
+SJCQX1SS2,,16.9.4,146.34.0.21,Cisco,Cisco Catalyst 38xx stack,US,SJCQX1,Cisco IOS XE Software
+SLC235SL1-TRAILER8,,16.12.4,146.26.65.30,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU150:,Cisco IOS XE Software
+SLC651SL6,,16.12.1,146.26.42.7,Cisco,Cisco Catalyst IE-3300-8P2S Rugged Switch,US,"MCC Bld, SLC651",Cisco IOS XE Software
+SLO276SL1,,16.12.7,146.26.74.125,Cisco,Cisco Catalyst 38xx stack,US,SLO276,Cisco IOS XE Software
+SN3B-N7K-CORP,,6.2(16),146.38.87.35,Cisco,Cisco Nexus 7000 Series,US,LONPWG,Cisco Nexus
+SN3B-N7K-CORP,,6.2(16),146.38.93.1,Cisco,Cisco Nexus 7000 Series,US,LONPWG,Cisco Nexus
+SNJRA1,,16.12.4,146.33.25.248,Cisco,Cisco 4331 ISR,US,SNJ,Cisco IOS XE Software
+SNJRL1,,16.12.4,146.33.37.193,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,SNJ,Cisco IOS XE Software
+TAM550RA1,,16.12.4,146.25.28.188,Cisco,Cisco 4331 ISR,US,TAM550,Cisco IOS XE Software
+TAM550SL2,,17.3.5,146.25.28.130,Cisco,Cisco Catalyst 9300 Series Switch,US,TAM550,Cisco IOS XE Software
+TOKQX4RD10,,15.4(3)S2,139.65.213.206,Cisco,Cisco ASR 1001-X Router,US,TOKQX4,Cisco IOS XE Software
+TRASL1,,16.12.7,146.26.7.249,Cisco,Cisco Catalyst 38xx stack,US,TRA,Cisco IOS XE Software
+US-AL-BIR240-RB01,,17.6.3a,139.65.180.75,Cisco,Cisco,US,BIR240,Cisco IOS XE Software
+US-CA-BCO-SL3,,16.12.4,146.35.2.8,Cisco,Cisco Catalyst 9300 Series Switch,US,BCO,Cisco IOS XE Software
+US-CA-BCO-SL4,,16.12.4,146.35.2.9,Cisco,Cisco Catalyst 9300 Series Switch,US,BCO,Cisco IOS XE Software
+US-CA-CSVLOV-RB01,,17.6.1a,139.65.180.147,Cisco,Cisco,US,CSVLOV,Cisco IOS XE Software
+US-CA-CSVLOV-RB02,,17.6.1a,139.65.180.148,Cisco,Cisco,US,CSVLOV,Cisco IOS XE Software
+US-CA-CSVPLV-RB01 (146,,17.6.1a,146.24.159.18,Cisco,Catalyst 8300-1N1S-6T,US,CSVPLV,Cisco IOS XE Software
+US-CA-ESEPIN-FITCTR-ACS1,,16.12.4,146.26.213.6,Cisco,Cisco Catalyst 9300 Series Switch,US,ESE,Cisco IOS XE Software
+US-CA-EUR-RB01,,17.6.3a,139.65.180.31,Cisco,Cisco,US,EUR,Cisco IOS XE Software
+US-CA-FAR801-RB01,,17.6.3a,139.65.180.115,Cisco,Cisco,US,FAR801,Cisco IOS XE Software
+US-CA-GUA218-RB01,,17.6.3a,139.65.180.57,Cisco,Cisco,US,GUA218,Cisco IOS XE Software
+US-CA-HBE178-RB01,,17.6.3a,139.65.180.116,Cisco,Cisco,US,location HBE178,Cisco IOS XE Software
+US-CA-HBE178-RL1,,17.3.4,146.26.98.249,Cisco,Cisco Catalyst 9300 Series Switch,US,HBE178,Cisco IOS XE Software
+US-CA-LAXQX-RV01,,17.2.1r,139.65.212.220,Cisco,Cisco 4431 ISR,US,LAXQX1,Cisco IOS XE Software
+US-CA-LAXQX1-SE01V,,17.6.3,139.65.212.207,Cisco,Catalyst 9500-48Y4C,US,LAXQX1,Cisco IOS XE Software
+US-CA-MDW-SL02,,16.12.4,146.35.201.57,Cisco,Cisco Catalyst 9300 Series Switch,US,MDW,Cisco IOS XE Software
+US-CA-MONCA-RB01,,17.6.3a,139.65.180.96,Cisco,Cisco,US,WAN-SDWAN : US-CA-MONCA,Cisco IOS XE Software
+US-CA-MONCA-SL2,,17.3.4,146.34.251.222,Cisco,Cisco Catalyst 9300 Series Switch,US,MONCA,Cisco IOS XE Software
+US-CA-PITCA-RB01,,17.6.3a,139.65.180.122,Cisco,Cisco,US,PITCA,Cisco IOS XE Software
+US-CA-SAC242-RB01,,17.6.3a,139.65.180.62,Cisco,Cisco,US,SAC242,Cisco IOS XE Software
+US-CA-SD2351-RB01,,17.6.3a,139.65.180.117,Cisco,Cisco,US,SD2351,Cisco IOS XE Software
+US-CA-SD2351-SL01,,16.12.4,146.26.46.250,Cisco,Cisco Catalyst 9300 Series Switch,US,SD2351,Cisco IOS XE Software
+US-CA-SFR1-RB01,,17.6.3a,139.65.180.114,Cisco,Cisco,US,WAN-SDWAN : US-CA-SFR1,Cisco IOS XE Software
+US-CA-SFR1-SL2,,17.3.4,146.26.105.5,Cisco,Cisco Catalyst 9300 Series Switch,US,SFR1,Cisco IOS XE Software
+US-CA-SJCQX1-RB02,,17.6.3a,139.65.212.150,Cisco,Catalyst 8500L-8S4X,US,SJCQX1,Cisco IOS XE Software
+US-CA-TRA-RB01,,17.6.3a,139.65.180.39,Cisco,Cisco,US,TRA,Cisco IOS XE Software
+US-CA-VNU-RL1,,17.3.4,146.26.11.249,Cisco,Cisco Catalyst 9300 Series Switch,US,VNU,Cisco IOS XE Software
+US-CO-F29482-RL01,,17.7.1,146.33.164.169,Cisco,Cisco Catalyst 9300 Series Switch,US,F29482,Cisco IOS XE Software
+US-CO-F30787-RB01,,17.6.3a,139.65.180.150,Cisco,Cisco,US,WAN SDWAN : F30787,Cisco IOS XE Software
+US-CO-F30790-RB01,,17.6.1a,139.65.180.151,Cisco,Cisco,US,WAN SDWAN : F30790,Cisco IOS XE Software
+US-CO-F30883-RB01,,17.6.3a,139.65.180.90,Cisco,Catalyst 8300-1N1S-6T,US,F30883,Cisco IOS XE Software
+US-CO-F30883-RB02,,17.6.3a,139.65.180.91,Cisco,Catalyst 8300-1N1S-6T,US,F30883,Cisco IOS XE Software
+US-CO-F30883-SL1,,17.3.4,146.33.135.129,Cisco,Cisco Catalyst 9300 Series Switch,US,,Cisco IOS XE Software
+US-CO-F30883-SL2,,17.3.4,146.33.135.134,Cisco,Cisco Catalyst 9300 Series Switch,US,,Cisco IOS XE Software
+US-CO-F30883-SL3,,16.12.4,146.33.135.133,Cisco,Cisco Catalyst 9300 Series Switch,US,F30883,Cisco IOS XE Software
+US-CO-F30883-SL4,,17.3.4,146.33.135.135,Cisco,Cisco Catalyst 9300 Series Switch,US,,Cisco IOS XE Software
+US-CO-MCO-SL1,,17.3.4,146.24.195.251,Cisco,Cisco Catalyst 9300 Series Switch,US,MCO,Cisco IOS XE Software
+US-FL-PCIFL2-RB01,,17.6.3a,139.65.180.44,Cisco,Cisco,US,PCIFL2,Cisco IOS XE Software
+US-FL-TAM550-RB01,,17.6.3a,139.65.180.46,Cisco,Cisco,US,TAM550,Cisco IOS XE Software
+US-FL-TAM550SL3-Office,,16.12.5b,146.25.28.70,Cisco,Cisco Catalyst 9300 Series Switch,US,TAM550:,Cisco IOS XE Software
+US-LA-ARC-RA1,,16.12.4,146.25.84.188,Cisco,Cisco 4331 ISR,US,ARC,Cisco IOS XE Software
+US-LA-ARC-RB01,,17.6.3a,139.65.180.34,Cisco,Cisco,US,ARC,Cisco IOS XE Software
+US-LA-F30875-RB01,,17.6.3a,139.65.180.45,Cisco,Cisco,US,Louisiana - Pending from NetOps,Cisco IOS XE Software
+US-LA-GC205-RB01,,17.6.3a,139.65.180.52,Cisco,Cisco,US,COV100,Cisco IOS XE Software
+US-LA-LAFLA3-RB01,,17.6.3a,139.65.180.119,Cisco,Cisco,US,LAFLA3,Cisco IOS XE Software
+US-LA-MARCA-RB01,,17.6.3a,139.65.180.32,Cisco,Cisco,US,MARCA,Cisco IOS XE Software
+US-NJ-PAMNJ-RB01,,17.6.3a,139.65.180.63,Cisco,Cisco,US,WAN SDWAN : PAMNJ,Cisco IOS XE Software
+US-NM-F07618-RB01,,17.6.3a,139.65.180.67,Cisco,Catalyst 8300-1N1S-6T,US,F07618-US-NM,Cisco IOS XE Software
+US-NM-F07618-RB02,,17.6.3a,139.65.180.68,Cisco,Catalyst 8300-1N1S-6T,US,F07618,Cisco IOS XE Software
+US-NM-F07618-RL01,,17.3.5,146.26.36.1,Cisco,Catalyst 9500-48Y4C,US,"Water Treatment Plant Command Center IT Data Rm, F07618",Cisco IOS XE Software
+US-NM-GAL-RB01,,17.6.3a,139.65.180.83,Cisco,Cisco,US,GAL,Cisco IOS XE Software
+US-NM-QUE469-SL12,,16.12.4,146.26.36.33,Cisco,Cisco Catalyst 9300 Series Switch,US,QUE469 Water Treatment Plant,Cisco IOS XE Software
+US-NM-QUE469-SL2,,16.12.4,146.26.36.15,Cisco,Cisco Catalyst 9300 Series Switch,US,QUE469 Water Treatment Plant,Cisco IOS XE Software
+US-NM-QUES32-RB01,,17.6.3a,139.65.180.124,Cisco,Cisco,US,"WAN: SD-WAN: US-NM-QUES32: 32 Abra Rd, Questa, NM 87556",Cisco IOS XE Software
+US-NM-QUES32-SL01,,17.3.4,146.33.25.224,Cisco,Cisco Catalyst 9300 Series Switch,US,QUES32,Cisco IOS XE Software
+US-OR-POROR1-SL09,,16.12.4,146.26.73.141,Cisco,Cisco Catalyst 9300 Series Switch,US,POROR1,Cisco IOS XE Software
+US-SC-CHASC-RB01,,17.6.3a,139.65.180.60,Cisco,Cisco,US,CHASC,Cisco IOS XE Software
+US-TX-AUS100-SL1,,17.3.4,146.33.25.232,Cisco,Cisco Catalyst 9300 Series Switch,US,AUS100,Cisco IOS XE Software
+US-TX-BEC-RA01,,17.6.3a,146.33.6.252,Cisco,Cisco 4331 ISR,US,BEC,Cisco IOS XE Software
+US-TX-CannonOps002-RS02,,17.8.1,139.65.180.69,Cisco,Cisco,US,Cannon Test Kit 2,Cisco IOS XE Software
+US-TX-DALQX3-MS1,,17.3.4,139.65.212.4,Cisco,Cisco C9200R Fixed Switch Stack,US,DALQX3,Cisco IOS XE Software
+US-TX-DALQX3-RB01,,17.6.3a,139.65.212.15,Cisco,Catalyst 8500L-8S4X,US,DALQX3,Cisco IOS XE Software
+US-TX-DALQX3-RB02,,17.6.3a,139.65.212.16,Cisco,Catalyst 8500L-8S4X,US,DALQX3,Cisco IOS XE Software
+US-TX-DALQX3-SE01V,,17.6.4,146.46.189.159,Cisco,Catalyst 9500-48Y4C,US,DALQX3,Cisco IOS XE Software
+US-TX-F07220-RE01,,16.12.4,144.5.196.214,Cisco,Cisco 4331 ISR,US,"17404 Katy Freeway, Thoroughbred Bldg 4th Floor IDF, Houston, TX 77084",Cisco IOS XE Software
+US-TX-F07220-RL01,,16.9.5,144.5.196.215,Cisco,Cisco Catalyst 38xx stack,US,"17404 Katy Freeway, Thoroughbred Bldg 4th Floor IDF, Houston, TX 77084",Cisco IOS XE Software
+US-TX-F07551-RB01,,17.6.3a,139.65.180.111,Cisco,Cisco,US,F07551,Cisco IOS XE Software
+US-TX-F08820-Mainlab-SL,,16.12.02,146.33.211.2,Cisco,Cisco Catalyst 9300 Series Switch,US,F08820,Cisco IOS XE Software
+US-TX-F09122-RB01,,17.6.3a,146.33.0.73,Cisco,Cisco,US,Houston - ION Building,Cisco IOS XE Software
+US-TX-F09122-RL01,,16.12.4,146.33.0.74,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU150,Cisco IOS XE Software
+US-TX-F09122-SL01,,16.12.4,146.33.41.2,Cisco,Cisco Catalyst 9300 Series Switch,US,F09122,Cisco IOS XE Software
+US-TX-F09132-RB02,,17.6.3a,139.65.180.131,Cisco,Cisco,US,F09132,Cisco IOS XE Software
+US-TX-F30851-RB01,,17.6.3a,139.65.180.33,Cisco,Cisco,US,F30851,Cisco IOS XE Software
+US-TX-HO1400-SL03,,17.3.4,146.36.125.2,Cisco,Cisco Catalyst 9407R Switch,US,HO1400,Cisco IOS XE Software
+US-TX-HOU140-SL3A,,17.3.4,146.36.177.5,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU140,Cisco IOS XE Software
+US-TX-HOU150-03LAB-STAGING-MS1,,17.3.4,134.248.214.58,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU150,Cisco IOS XE Software
+US-TX-HOU150-SL5_TDRS1,,17.3.4,146.36.61.228,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU150,Cisco IOS XE Software
+US-TX-HOU150-SL8L37,,17.3.4,146.36.83.164,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU150,Cisco IOS XE Software
+US-TX-HOU150-SS9R18,,17.3.4,146.36.11.8,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU150,Cisco IOS XE Software
+US-TX-HOU150-SS9R88,,17.3.4,146.36.11.9,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU150,Cisco IOS XE Software
+US-TX-HOU400-RB01,,17.6.3a,139.65.180.36,Cisco,Cisco,US,HOU400,Cisco IOS XE Software
+US-TX-HOU464-RL1,,16.12.02,144.5.196.239,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU464,Cisco IOS XE Software
+US-TX-HOU464-SL1,,17.3.4,144.5.240.2,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU464,Cisco IOS XE Software
+US-TX-HOU464-SL2,,17.3.4,144.5.240.3,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU464,Cisco IOS XE Software
+US-TX-HOU517-RB01,,17.6.3a,139.65.212.89,Cisco,Cisco,US,HOU517,Cisco IOS XE Software
+US-TX-HOU517-RB02,,17.6.3a,139.65.212.90,Cisco,Cisco,US,HOU517,Cisco IOS XE Software
+US-TX-PADC-GRS-SL1,,17.3.4,146.33.102.33,Cisco,Cisco Catalyst 9300 Series Switch,US,PADC,Cisco IOS XE Software
+US-TX-PADC-LAB-SL1,,17.3.5,146.33.102.35,Cisco,Cisco Catalyst 9300 Series Switch,US,PADC,Cisco IOS XE Software
+US-TX-PADC-MNT-SL1,,17.3.5,146.33.102.13,Cisco,Cisco Catalyst 9300 Series Switch,US,PADC,Cisco IOS XE Software
+US-TX-PADC-PKG-SL1,,17.3.4,146.33.102.22,Cisco,Cisco Catalyst 9300 Series Switch,US,PADC,Cisco IOS XE Software
+US-TX-PADC-RB01,,17.6.3a,139.65.180.123,Cisco,Cisco,US,WAN-SDWAN : PADC,Cisco IOS XE Software
+US-TX-PADC-SEC-SL1,,17.3.4,146.33.102.20,Cisco,Cisco Catalyst 9300 Series Switch,US,PADC,Cisco IOS XE Software
+US-TX-PADC-SVR-SL1,,17.3.5,146.33.102.10,Cisco,Cisco Catalyst 9300 Series Switch,US,PADC,Cisco IOS XE Software
+US-TX-PADC-TTL-SL1,,17.3.4,146.33.102.17,Cisco,Cisco Catalyst 9300 Series Switch,US,PADC,Cisco IOS XE Software
+US-TX-PADC-WHS-SL1,,17.3.5,146.33.102.31,Cisco,Cisco Catalyst 9300 Series Switch,US,PADC,Cisco IOS XE Software
+US-TX-PADC-WTF-SL1,,17.3.4,146.33.102.16,Cisco,Cisco Catalyst 9300 Series Switch,US,PADC,Cisco IOS XE Software
+US-TX-SAN450-RA1,,16.6.4,146.33.100.124,Cisco,Cisco 4331 ISR,US,SAN450,Cisco IOS XE Software
+US-TX-SAN520-RL01A,,7.0(3)I7(7),146.41.245.2,Cisco,Cisco Nexus 93180YC-FX,US,SAN520,Cisco Nexus
+US-TX-SAN520-RL01A,,7.0(3)I7(7),146.33.192.41,Cisco,Cisco Nexus 93180YC-FX,US,SAN520,Cisco Nexus
+US-TX-SAN520-RL01A,,7.0(3)I7(7),146.33.114.50,Cisco,Cisco Nexus 93180YC-FX,US,SAN520,Cisco Nexus
+US-TX-SAN520-RL01B,,7.0(3)I7(7),146.41.245.3,Cisco,Cisco Nexus 93180YC-FX,US,SAN520,Cisco Nexus
+US-TX-SAN520-RL01B,,7.0(3)I7(7),146.33.192.42,Cisco,Cisco Nexus 93180YC-FX,US,SAN520,Cisco Nexus
+US-TX-SJO-SL01,,17.7.1,146.33.0.133,Cisco,Cisco Catalyst 9300 Series Switch,US,F07551,Cisco IOS XE Software
+US-TX-SJO-SL02,,17.2.1,146.33.10.5,Cisco,Cisco Catalyst 9300 Series Switch,US,Baytown Sjolander: US-TX-SJO-WPMPAP01,Cisco IOS XE Software
+US-TX-SJO-SL03-MGT,,16.12.3,146.33.10.126,Cisco,Cisco Catalyst IE-3300-8P2S Rugged Switch,US,Baytown Sjolander: US-TX-SJO-SL03-MGT,Cisco IOS XE Software
+US-TX-SLA-RB01,,17.6.3a,139.65.180.35,Cisco,Cisco,US,SLA,Cisco IOS XE Software
+US-TX-WellOps043-RS01,,17.6.2,139.65.180.51,Cisco,Cisco,US,RBU - Patterson 268,Cisco IOS XE Software
+US-UT-SLC235-SL1-Nfirestat,,17.3.4,146.26.65.9,Cisco,Cisco Catalyst 9300 Series Switch,US,F07558,Cisco IOS XE Software
+US-UT-SLC235-SLTRAILER9,,17.3.4,146.26.65.33,Cisco,Cisco Catalyst 9300 Series Switch,US,SLC235,Cisco IOS XE Software
+US-UT-SLC651-SL2,,16.12.4,146.26.42.5,Cisco,Cisco Catalyst 9300 Series Switch,US,SLC651,Cisco IOS XE Software
+US-UT-SLC651-SL3,,16.12.4,146.26.42.3,Cisco,Cisco Catalyst 9300 Series Switch,US,SLC651,Cisco IOS XE Software
+US-UT-SLC651-SL4,,16.12.4,146.26.42.4,Cisco,Cisco Catalyst 9300 Series Switch,US,SLC651,Cisco IOS XE Software
+US-VA-F09155-RB01,,17.6.3a,139.65.180.18,Cisco,Cisco,US,F09155,Cisco IOS XE Software
+US-VA-F09155-RB02,,17.6.3a,139.65.180.19,Cisco,Cisco,US,F09155,Cisco IOS XE Software
+US-WY-EVA313-RB01,,17.6.3a,139.65.180.110,Cisco,Cisco,US,"WAN SDWAN : US-WY-EVA313 : 3131 NORTH SUNBURST DR, Evansville, WY",Cisco IOS XE Software
+VE-B-BARIJR-SLT,,16.6.7,146.39.110.10,Cisco,Cisco Catalyst 9300 Series Switch,US,BARIJR,Cisco IOS XE Software
+WellOps019RA1,,16.9.4,146.24.47.228,Cisco,Cisco 4321 ISR,US,WellOps019,Cisco IOS XE Software
+WellOps032RA1,,17.6.2,139.65.180.73,Cisco,Cisco,US,Evo1,Cisco IOS XE Software
+X-ALEN-CORE-1,,16.12.5b,146.30.164.161,Cisco,Cisco Catalyst 38xx stack,US,F30849,Cisco IOS XE Software
+X-DC1-DMZ-1,,16.9.2,10.4.255.44,Cisco,Cisco C9500-40X,US,F09129,Cisco IOS XE Software
+X-DC1-GDST-1,,16.9.2,10.4.255.40,Cisco,Cisco C9500-40X,US,F09129,Cisco IOS XE Software
+X-DC1-INET-1,,16.6.5,10.4.255.22,Cisco,Cisco Catalyst 38xx stack,US,F09129,Cisco IOS XE Software
+X-DC1-MGMT-2,,16.6.5,10.4.255.92,Cisco,Cisco Catalyst 38xx stack,US,F09129,Cisco IOS XE Software
+X-DC1-MGMT-3,,16.6.5,10.4.255.93,Cisco,Cisco Catalyst 38xx stack,US,F09129,Cisco IOS XE Software
+X-DC1-WDST-1,,9.2(3),10.4.255.5,Cisco,Cisco Nexus 93180YC-FX,US,F09129,Cisco Nexus
+X-GRE-IDF-1249-SEC-1,,15.0(2)SE8,146.33.171.204,Cisco,C9300-48UXM-E,US,F09146,Cisco IOS XE Software
+X-GRE-IDF-1401-1,,17.5.1,146.33.171.206,Cisco,Cisco Catalyst 9300 Series Switch,US,F09146,Cisco IOS XE Software
+X-GRE-IDF-2207-SEC-1,,15.0(2)SE8,146.33.171.209,Cisco,C9300-48UXM-E,US,F09146,Cisco IOS XE Software
+X-GRE-IDF-FRC-1,,17.5.1,146.33.171.214,Cisco,Cisco Catalyst 9300 Series Switch,US,F09146,Cisco IOS XE Software
+X-GRE-MDF-Rack0-2,,17.3.4,10.35.255.112,Cisco,Cisco Catalyst 9300 Series Switch,US,F09146,Cisco IOS XE Software
+X-GRE-MDF-Rack3-2,,17.3.4,10.35.255.116,Cisco,Cisco Catalyst 9300 Series Switch,US,F09146,Cisco IOS XE Software
+X-GRE-MDF-Rack4-1,,17.5.1,146.33.171.200,Cisco,Cisco Catalyst 9300 Series Switch,US,F09146,Cisco IOS XE Software
+X-NBLX-JJ-CGF-ICS-CORE-1,,16.6.6,146.33.161.121,Cisco,Cisco Catalyst 9300 Series Switch,US,F09132,Cisco IOS XE Software
+X-NBLX-LIBERTY-CORE-1,,16.6.6,146.33.161.185,Cisco,Cisco Catalyst 9300 Series Switch,US,F09132,Cisco IOS XE Software
+X-NBLX-LUC-CORE-1,,16.9.4,146.33.164.113,Cisco,Cisco Catalyst 9300 Series Switch,US,F09132,Cisco IOS XE Software
+X-NBLX-MIL-CORE-1,,16.9.4,146.33.165.177,Cisco,Cisco Catalyst 9300 Series Switch,US,F09132,Cisco IOS XE Software
+X-NEC1-ADMINVDC-1,,7.3(5)D1(1),10.14.255.6,Cisco,Cisco Nexus 7000 Series,US,F09129,Cisco Nexus
+X-NEC1-IDF-5S-2,,16.9.5,10.16.255.63,Cisco,Cisco Catalyst 38xx stack,US,F09129,Cisco IOS XE Software
+X-NEC2-IDF-TOWNHALL,,16.6.8,10.17.255.77,Cisco,Cisco Catalyst 38xx stack,US,F09131,Cisco IOS XE Software
+bchadcss3,,17.3.5,146.25.75.182,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+bchadcss5,,17.3.5,146.25.75.184,Cisco,Cisco Catalyst 9300 Series Switch,US,BCH,Cisco IOS XE Software
+bchlsl33-tcom32,,16.12.3,146.25.75.173,Cisco,Cisco Catalyst IE-3400-8P2S Rugged Switch,US,BCH,Cisco IOS XE Software
+bchrl01-vss,,16.12.3,146.25.75.249,Cisco,Cisco C9606R Virtual Stack,US,BCH,Cisco IOS XE Software
+bk4241ss-dcrar7-n5696-a,,7.3(3)N1(1),146.35.18.32,Cisco,Nexus 5696Q,US,F06960,Cisco Nexus
+bk4241ss-dcrar7-n5696-b,,7.3(3)N1(1),146.35.18.33,Cisco,Nexus 5696Q,US,F06960,Cisco Nexus
+dalqx3re30,,16.9.4,146.46.189.164,Cisco,Cisco ASR 1001-X Router,US,DALQX3,Cisco IOS XE Software
+empwa-01,,16.9.5,146.24.76.15,Cisco,Cisco Catalyst 38xx stack,US,EMP,Cisco IOS XE Software
+f08846sl1,,16.12.7,146.26.3.251,Cisco,Cisco Catalyst 38xx stack,US,F08846,Cisco IOS XE Software
+foulara2,,16.12.4,146.32.245.117,Cisco,Cisco ISR4451,US,SAC242,Cisco IOS XE Software
+gua610rl1-loopback0,,16.12.7,146.33.25.251,Cisco,Cisco Catalyst 38xx stack,US,GUA610,Cisco IOS XE Software
+hou140sl10_10947,,16.12.4,146.36.186.5,Cisco,Cisco Catalyst 9300 Series Switch,US,HOU140,Cisco IOS XE Software
+hou150-09mda-g74-ar03b-pr,,6.2(12),134.248.209.15,Cisco,Nexus 7718,US,HOU150,Cisco Nexus
+hou150-09pbua-qq109-ms35,,16.9.2,134.248.214.61,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,HOU150,Cisco IOS XE Software
+hou150-09pbub-rr114-ms35,,16.9.2,134.248.214.62,Cisco,Cisco Catalyst 36xx stack-able ethernet switch,US,HOU150,Cisco IOS XE Software
+hou150ss8l111,,7.3(3)N1(1),146.36.9.130,Cisco,Cisco Nexus 5548,US,HOU150,Cisco Nexus
+hou150ss8m111,,7.3(3)N1(1),146.36.9.131,Cisco,Cisco Nexus 5548,US,HOU150,Cisco Nexus
+hou599se1,,16.12.4,144.5.196.62,Cisco,Cisco Catalyst 38xx stack,US,HOU599,Cisco IOS XE Software
+ric841sl-214-main,,17.3.4,146.28.187.5,Cisco,Cisco Catalyst 9407R Switch,US,ric841,Cisco IOS XE Software
+ric841sl-940hen-bldg222,,17.3.4,146.28.204.17,Cisco,Cisco Catalyst 9300 Series Switch,US,ric841,Cisco IOS XE Software
+ric841sl-940hen-bldg227-rm89,,16.9.5,146.28.204.26,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+ric841sl-940hen-bldg316,,16.12.4,146.28.204.22,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+ric841sl-adm-access,,16.12.4,146.28.182.22,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+ric841sl-bs-210-cent,,16.9.5,146.28.191.13,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+ric841sl-bs-218-main,,16.9.5,146.28.180.21,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+ric841sl-bs-dst-p,,16.12.3a,146.28.176.244,Cisco,Cisco C9500-40X,US,ric841,Cisco IOS XE Software
+ric841sl-bs-dst-s,,16.12.3a,146.28.176.245,Cisco,Cisco C9500-40X,US,ric841,Cisco IOS XE Software
+ric841sl-gilcore-VSS,,16.12.3a,146.28.176.239,Cisco,Catalyst 9500-48Y4C,US,ric841,Cisco IOS XE Software
+ric841sl-hpcc-dst-p,,16.12.3a,146.28.176.242,Cisco,Cisco C9500-40X,US,ric841,Cisco IOS XE Software
+ric841sl-hyd-251-octo,,17.3.4,146.28.188.14,Cisco,Cisco Catalyst 9300 Series Switch,US,ric841,Cisco IOS XE Software
+ric841sl-hyd-ranch2,,16.9.5,146.28.189.28,Cisco,Cisco Catalyst 9300 Series Switch,US,ric841,Cisco IOS XE Software
+ric841sl-hyd-temp-shutdown2,,16.9.5,146.28.189.27,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+ric841sl-lsf-340-petr2,,16.9.5,146.28.198.26,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+ric841sl-lsf-80-petr,,16.9.5,146.28.198.15,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+ric841sl-lsf-sdp-4crdw,,16.9.5,146.28.198.13,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+ric841sl-lsf-temp-drshutdown2,,16.9.5,146.28.198.28,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+ric841sl-lsfo-dst-p,,16.12.3a,146.28.176.246,Cisco,Cisco C9500-40X,US,ric841,Cisco IOS XE Software
+ric841sl-lsfo-dst-s,,16.12.3a,146.28.176.247,Cisco,Cisco C9500-40X,US,ric841,Cisco IOS XE Software
+ric841sl-rlp-103-forg,,16.9.5,146.28.213.13,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+ric841sl-rlp-104-plat,,17.3.4,146.28.213.39,Cisco,Cisco Catalyst 9300 Series Switch,US,ric841,Cisco IOS XE Software
+ric841sl-rlp-110-forg,,16.9.5,146.28.213.16,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+ric841sl-rlp-112-plat,,16.9.5,146.28.213.42,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+ric841sl-rlp-35-redw-2nd,,16.9.5,146.28.212.30,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+ric841sl-rlp-bldg_14,,16.12.4,146.28.183.33,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+ric841sl-rlp-dst-p,,16.12.3a,146.28.176.240,Cisco,Cisco C9500-40X,US,ric841,Cisco IOS XE Software
+ric841sl-rlp-dst-s,,16.12.3a,146.28.176.241,Cisco,Cisco C9500-40X,US,ric841,Cisco IOS XE Software
+ric841sl-temp-ine-trailers,,16.9.5,146.28.213.43,Cisco,Cisco Catalyst 38xx stack,US,ric841,Cisco IOS XE Software
+slc235sl1-radio,,16.12.4,146.26.65.61,Cisco,Cisco Catalyst 38xx stack,US,F07558,Cisco IOS XE Software
+slc235sl1-tkfld,,16.12.4,146.26.65.50,Cisco,Cisco Catalyst 38xx stack,US,F07558,Cisco IOS XE Software
+us-tx-sjcqx1-se01v,,17.6.4,146.46.189.38,Cisco,Catalyst 9500-48Y4C,US,SJCQX1,Cisco IOS XE Software
+uscnmclb-cnmsl1,,16.9.5,146.24.159.79,Cisco,Cisco Catalyst 9300 Series Switch,US,CNM2,Cisco IOS XE Software
+wr29ra1 (fiber),,16.3.5,146.32.1.224,Cisco,Cisco ASR1002-X,US,WR29,Cisco IOS XE Software
+wr29ra2 (fiber),,16.3.5,146.32.1.226,Cisco,Cisco ASR1002-X,US,WR29,Cisco IOS XE Software
+wr29ra3 (VSAT / LTE),,16.12.4,146.32.1.253,Cisco,Cisco ISR4451,US,WR29,Cisco IOS XE Software
+wr29sl2 (Business Partners),,17.3.5,146.32.0.5,Cisco,Cisco Catalyst 9300 Series Switch,US,WR29,Cisco IOS XE Software
+wr29sl9 (Drill Cabin),,17.3.5,146.32.0.12,Cisco,Cisco Catalyst 9300 Series Switch,US,WR29,Cisco IOS XE Software
